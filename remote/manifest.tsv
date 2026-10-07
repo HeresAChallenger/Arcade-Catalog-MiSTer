@@ -1,8 +1,8 @@
 schema	1
-database_version	2026-10-03.2
+database_version	2026-10-07.1
 genre_database_version	2026-10-06.3
 minimum_script_version	1.2.0
-file	arcade_hardware_map.csv	aea984265db1a9ec06ac9de7e38d70eda83a37566d889c187b44b56b019bb24a
+file	arcade_hardware_map.csv	a124f6e03ac8ae9415e016de2017da9cd822e8ac4aa588802c9cfef04cbc68a3
 file	arcade_game_overrides.csv	9d2f2195401c70fad9e23406221e742898d7d8b443690c9adf09d8a030da1489
 file	arcade_genres.tsv	a1aaced4345e1ae30b8ad903bca4257cfc32dc058830874c197d82becf4f05b9
 file	arcade_alternativos.tsv	f792635df654616d94bea0e1b7244441ecb1b37499b6b49285b0f69384b5cf64
