@@ -1,1 +1,49 @@
+name: Atualizar base de anos
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 6 * * 1'
+permissions:
+  contents: write
+jobs:
+  years:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Coletar MRAs publicos do ecossistema MiSTer
+        run: |
+          rm -rf generated/mras
+          python builder/fetch_public_mras.py --sources builder/sources.json --out generated/mras
+      - name: Baixar XML oficial da ultima versao do MAME
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p .cache/mame
+          tag=$(gh api repos/mamedev/mame/releases/latest --jq .tag_name)
+          echo "MAME tag: $tag"
+          gh release download "$tag" --repo mamedev/mame --pattern 'mame*lx.zip' --dir .cache/mame
+          ls -lh .cache/mame
+      - name: Gerar anos canonicos
+        run: |
+          xml=$(find .cache/mame -name 'mame*lx.zip' -print -quit)
+          python builder/build_years_from_mame.py \
+            --mame-xml "$xml" \
+            --mra-dir generated/mras \
+            --overrides builder/arcade_year_overrides.tsv \
+            --out-dir generated/year
+          cat generated/year/year_coverage.txt
+      - name: Publicar somente quando houver mudanca
+        run: |
+          git config user.name 'Arcade Catalog Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add generated/year/
+          if git diff --cached --quiet; then
+            echo 'Sem alteracoes.'
+          else
+            git commit -m 'chore: atualiza base canonica de anos'
+            git push
+          fi
 
