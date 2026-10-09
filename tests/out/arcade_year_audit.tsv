@@ -1,6 +1,0 @@
-filename	setname	mra_year	canonical_year	status	source	confidence	mame_year_raw	mame_description	category	note
-Clockwork Aquario (prototype).mra	aquario	2021	1992	year	mame	exact	1992	Clockwork Aquario (prototype)		
-Deathsmiles (Japan, 2007-10-09 MASTER VER) .mra	deathsml	2004	2007	year	mame	exact	2007	Deathsmiles (2007/10/09 MASTER VER)	Shooter	
-DECO Darksoft Multigame (DECO).mra	decodark	2022		not-applicable	policy-multigame	exact	2022	DECO Cassette System ROM Multigame (Darksoft, v17)	Multigame	
-Muchi Muchi Pork! (Japan, 2007-4-17 MASTER VER.).mra	mmpork	2004	2007	year	mame	exact	2007	Muchi Muchi Pork!	Shooter	
-Pink Sweets Ibara Sorekara (Japan, 2006-04-06 MASTER VER....) .mra	pinkswts	2004	2006	year	mame	exact	2006	Pink Sweets	Shooter	
