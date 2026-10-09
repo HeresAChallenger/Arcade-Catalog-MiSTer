@@ -1,1 +1,99 @@
 filename	setname	mra_year	canonical_year	status	source	confidence	mame_year_raw	mame_description	category	note
+Psycho-Nics Oscar (World).mra	oscar	1988	1987	year	mame	exact	1987	Psycho-Nics Oscar (World revision 0)	Platform	
+Saint Dragon (Set 1).mra	stdragon	1990	1989	year	mame	exact	1989	Saint Dragon (set 1)		
+Baluba-louk no Densetsu (Japan).mra	baluba	1984	1986	year	mame	exact	1986	Baluba-louk no Densetsu (Japan)	Platform	
+Billiard.mra	bilyard	1988	1988	year	mra-fallback	fallback	198?	Billiard	Sports	
+Burger Time (DECO).mra	cbtime	1982	1983	year	mame	exact	1983	Burger Time (DECO Cassette) (US)	Platformer	
+Cavelon.mra	cavelon	1981	1983	year	mame	exact	1983	Cavelon	Maze - Horizontal	
+Clean Sweep.mra	cleansweept	1982	1982	year	mra-fallback	fallback			Maze	
+Complex X.mra	complexx	1983	1984	year	mame	exact	1984	Complex X	Maze	
+Computer Space.mra		1971	1971	year	mra-fallback	fallback			Shooter - Multidirectional	
+Cosmic Alien.mra	cosmica	1981	1979	year	mame	exact	1979	Cosmic Alien (version II, set 1)	Space	
+Cosmic Guerilla.mra	cosmicg	1981	1979	year	mame	exact	1979	Cosmic Guerilla	Space	
+Darius (World).mra	darius	1987	1986	year	mame	exact	1986	Darius (World, rev 2)	Shooter	
+DECO Darksoft Multigame (DECO).mra	decodark	2022		not-applicable	policy-multigame	exact	2022	DECO Cassette System ROM Multigame (Darksoft, v17)	Multigame	
+DECO Widel Multigame (DECO).mra	decomult	2008		not-applicable	policy-multigame	exact	2008	DECO Cassette System ROM Multigame (David Widel)	Multigame	
+Demon Front (ver. 105).mra	dmnfrnt		2002	year	mame	exact	2002	Demon Front / Moyu Zhanxian (68k label V105, ROM M105XX 08/05/02) (ARM label V105, ROM 08/05/02 S105XX)		
+Devil Fish (Galaxian Hardware).mra	devilfsg	1984	1984	year	mra-fallback	fallback			Maze	
+Devil Zone.mra	devzone	1981	1980	year	mame	exact	1980	Devil Zone	Space	
+DoDonPachi II - Bee Storm (World, ver. 102).mra	ddp2		2001	year	mame	exact	2001	DoDonPachi II - Bee Storm (World, ver. 102)		
+DoDonPachi III (World, 2002.05.15 Master Ver).mra	ddp3		2002	year	mame	exact	2002	DoDonPachi III (World, 2002.05.15 Master Ver)		
+Dragon World 2001 (ver. 100, Japan).mra	dw2001		2001	year	mame	exact	2001	Chuugokuryuu 2001 [Dragon World 2001] (V100 02/21/01 16:05:16, Japan)		
+Dragon World 3 EX (ver. 100).mra	dwex		2000	year	mame	exact	2000	Dragon World 3 EX / Zhongguo Long 3 EX / Dungfong Zi Zyu 3 EX / Chuugokuryuu 3 EX (ver. 100)		
+Dragon World 3 (ver. 106).mra	drgw3		1998	year	mame	exact	1998	Dragon World 3 / Zhongguo Long 3 / Dungfong Zi Zyu 3 / Chuugokuryuu 3 Special (ver. 106)		
+Espgaluda (2003.10.15 Master Ver).mra	espgal		2003	year	mame	exact	2003	Espgaluda (2003/10/15 Master Ver)		
+Frenzy (Rev RA1).mra	frenzy	1981	1982	year	mame	exact	1982	Frenzy (revision RA1)	Shooter - Multidirectional	
+Future Spy (315-5061).mra	futspy	1982	1984	year	mame	exact	1984	Future Spy (315-5061)	Shooter - Isometric	
+Gauntlet II.mra	gaunt2	1985	1986	year	mame	exact	1986	Gauntlet II	Shooter - Multidirectional	
+Gorodki.mra	gorodki	1988	1988	year	mra-fallback	fallback	198?	Gorodki	Action	
+Guardians (Denjin Makai II).mra	grdians		1995	year	mame	exact	1995	Guardians / Denjin Makai II (P-FG01-1 PCB)		
+Hard Hat.mra	hardhat	1981	1982	year	mame	exact	1982	Hard Hat	Maze	
+Journey.mra	journey	1984	1983	year	mame	exact	1983	Journey	Arena	
+Ketsui - Kizuna Jigoku Tachi (2003.01.01. Master Ver.).mra	ket		2002	year	mame	exact	2002	Ketsui: Kizuna Jigoku Tachi (2003/01/01. Master Ver.)		
+Kick.mra	kick	1980	1981	year	mame	exact	1981	Kick (upright)	Ball and Paddle	
+Knights of Valour 2 (ver. 107).mra	kov2		2000	year	mame	exact	2000	Knights of Valour 2 / Sanguo Zhan Ji 2 / Sangoku Senki 2 (ver. 107, 102, 100HK)		
+Knights of Valour Super Heroes (ver. 104, CN).mra	kovsh		1999	year	mame	exact	1999	Knights of Valour Super Heroes / Sanguo Zhan Ji Fengyun Zaiqi / Sangoku Senki Super Heroes (ver. 104, CN)		
+Konek Gorbunok.mra	konek	1988	1988	year	mra-fallback	fallback	198?	Konek-Gorbunok	Platform	
+Kot-Rybolov.mra	kot	1988	1988	year	mra-fallback	fallback	198?	Kot-Rybolov (Terminal)	Action	
+Kozmik Krooz'r.mra	kroozr	1983	1982	year	mame	exact	1982	Kozmik Kroozr	Shooter - Multidirectional	
+Lethal Thunder (World).mra	lethalth	1992	1991	year	mame	exact	1991	Lethal Thunder (World)	Shooter	
+Mad Planets.mra	mplanets	1982	1983	year	mame	exact	1983	Mad Planets	Platform	
+Magical Spot.mra	magspot	1981	1980	year	mame	exact	1980	Magical Spot	Garden	
+Martial Masters (ver. 104, 102, 102US).mra	martmast		2001	year	mame	exact	2001	Martial Masters / Xing Yi Quan (ver. 104, 102, 102US)		
+Mouse Trap.mra	mtrap	1980	1981	year	mame	exact	1981	Mouse Trap (version 5)	Maze	
+Mr. Do Nightmare.mra	mrdonight	2004	2004	year	mra-fallback	fallback			Maze	
+Night Slashers (Korea Rev 1.3, DE-0397-0 PCB).mra	nslasher	1993	1994	year	mame	exact	1994	Night Slashers (Korea Ver. 1.3, DE-0397-0 PCB)	Action	
+Ninja Spirit (Japan).mra	nspiritj	1989	1988	year	mame	exact	1988	Saigo no Nindou (Japan)		
+No Mans Land.mra	nomnlnd	1981	1980	year	mame	exact	1980	Sengoku no Jieitai	War	
+Nova 2001.mra	nova2001	1984	1983	year	mame	exact	1983	Nova 2001 (Japan)	Platform - Climb	
+Number Crash.mra	numcrash	1980	1983	year	mame	exact	1983	Number Crash	Platform	
+Oriental Legend (ver. 126).mra	orlegend		1997	year	mame	exact	1997	Oriental Legend / Xiyou Shi E Zhuan (ver. 126)		
+Pac-Manic Miner.mra		2013	2013	year	mra-fallback	fallback			Platform - Climb	
+Paperboy (rev 3).mra	paperboy	1985	1984	year	mame	exact	1984	Paperboy (rev 3)	Arcade	
+Pepper II.mra	pepper2	1980	1982	year	mame	exact	1982	Pepper II (version 8)	Maze	
+Performan (Japan).mra	perfrman	1986	1985	year	mame	exact	1985	Performan (Japan)	Puzzle	
+PGM (Polygame Master) System BIOS.mra	pgm			not-applicable	policy-bios	exact	1997	PGM (Polygame Master) System BIOS		
+Photo Y2K (ver. 105).mra	photoy2k		1999	year	mame	exact	1999	Photo Y2K / Chaoji Bi Yi Bi / Dajia Lai Zhao Cha / Real and Fake (ver. 105)		
+Pisces.mra	pisces	1982	1982	year	mra-fallback	fallback	19??	Pisces	Shooter - Gallery	
+Poly Play.mra	polyplay	1985	1986	year	mame	exact	1986	Poly-Play (ZRE)	Mixed	
+Poly Play 2.mra	polyplay2	1985	1989	year	mame	exact	1989	Poly-Play (ZRE-PP)	Mixed	
+Pop Flamer (Bootleg conversion).mra	popflamn	1982	1982	year	mra-fallback	fallback			Shooter - Gallery	
+Port Man (bootleg on Moon Cresta hardware).mra	porter	1980	1982	year	mame	exact	1982	Port Man (bootleg on Moon Cresta hardware)	Dunno	
+Puzzle Star (ver. 100MG, WORLD).mra	puzlstar		1999	year	mame	exact	1999	Puzzle Star / Mohuan Xingzuo (ver. 100MG, 09/30/99 build)		
+Puzzli 2 (ver. 100, WORLD).mra	puzzli2		1999	year	mame	exact	1999	Puzzli 2 / Pao Pao Yu (ver. 100)		
+QBert Qubes.mra	qbertqub	1982	1983	year	mame	exact	1983	Q*bert's Qubes	Platform	
+Raiders5.mra	raiders5	1984	1985	year	mame	exact	1985	Raiders5	Platform - Climb	
+S.O.S..mra	sosterm	1988	1988	year	mra-fallback	fallback	198?	S.O.S.	Platform	
+S.V.G. - Spectral vs Generation (ver. 200).mra	svg		2005	year	mame	exact	2005	S.V.G. - Spectral vs Generation / Sheng Mo Shiji (M68k label V200) (ARM label V200, ROM 10/11/05 S.V.G V201)		
+Satan Of Saturn.mra	satansat	1980	1981	year	mame	exact	1981	Satan of Saturn (set 1)	Shooter	
+Satan's Hollow (Set 1).mra	shollow	1983	1981	year	mame	exact	1981	Satan's Hollow (set 1)	Shooter - Gallery	
+Scooter Shooter.mra	scotrsht	1986	1985	year	mame	exact	1985	Scooter Shooter	Shooter - Horizontal	
+Shot Rider (B-Board 89624B-1).mra	shtrider	1983	1985	year	mame	exact	1985	Shot Rider	Racing	
+Snap Jack.mra	snapjack	1982	1981	year	mame	exact	1981	Snap Jack	Platform	
+Snezhnaja Koroleva.mra	koroleva	1988	1988	year	mra-fallback	fallback	198?	Snezhnaja Koroleva	Maze	
+Solar Fox.mra	solarfox	1980	1981	year	mame	exact	1981	Solar Fox (upright)	Shooter - Multidirectional	
+SonSon.mra	sonson		1984	year	mame	exact	1984	Son Son		
+Space Demon.mra	SpaceDemon	1980	1980	year	mra-fallback	fallback			Shoot'em up	
+Space Panic.mra	panic	1981	1980	year	mame	exact	1980	Space Panic (version E)	Platform	
+Space Race [TTL].mra	spacerace	1973	1973	year	mra-fallback	fallback			Racing	
+Subs.mra	subs	1978	1977	year	mame	exact	1977	Subs	Racing	
+Super Xevious.mra	sxevious	1982	1984	year	mame	exact	1984	Super Xevious	Shooter - Vertical	
+Tempest.mra	tempest	1981	1980	year	mame	exact	1980	Tempest (rev 3, Revised Hardware)	Shooter - Tube	
+The Gladiator (ver. 107).mra	theglad		2003	year	mame	exact	2003	The Gladiator / Shen Jian Fu Mo Lu / Shen Jian Fengyun (M68k label V101) (ARM label V107, ROM 06/06/03 SHEN JIAN V107)		
+The Killing Blade Plus (China, ver. 300).mra	killbldp		2005	year	mame	exact	2005	The Killing Blade Plus / Ao Jian Kuang Dao Jiaqiang Ban (China, ver. 300)		
+The Killing Blade (ver. 109, Chinese Board).mra	killbld		1998	year	mame	exact	1998	The Killing Blade / Ao Jian Kuang Dao (ver. 109, Chinese Board)		
+Timber.mra	timber	1983	1984	year	mame	exact	1984	Timber	Action	
+Tri-Pool (Casino Tech).mra	tripool	1984	1981	year	mame	exact	1981	Tri-Pool: 3-In-One (Casino Tech)		
+TwinBee (Bubble System).mra	twinbeeb	1985	1985	year	mra-fallback	fallback			Shmup	
+Ufo Robo Dangar (4-07-1987).mra	dangar	1985	1986	year	mame	exact	1986	Ufo Robo Dangar (4/09/1987)	Platform	
+Up'n Down.mra	upndown	1984	1983	year	mame	exact	1983	Up'n Down (315-5030)	Racing	
+Venture Revision 5.mra	venture	1980	1981	year	mame	exact	1981	Venture (version 5 set 1)	Adventure	
+Vindicators Part II (rev 3).mra	vindctr2	1985	1988	year	mame	exact	1988	Vindicators Part II (rev 3)	Shooter - Multidirectional	
+Wacko.mra	wacko	1983	1982	year	mame	exact	1982	Wacko	Shooter - Multidirectional	
+Xiyou Shi E Zhuan Super (ver. 103, China, Tencent) (unprotected).mra	olds103t		1998	year	mame	exact	1998	Xiyou Shi E Zhuan Super (ver. 103, China, Tencent) (unprotected)		
+Zzyzzyxx (set 1).mra	zzyzzyxx	1984	1982	year	mame	exact	1982	Zzyzzyxx (set 1)	Platform	
+Altair II (FF, Cidelsa, 198x).mra	altair2	198?		unknown	none	unknown	198?	Altair II	Shooter	
+Glass (FF, Gaelco, 1993).mra	glassa	1993	1994	year	mame	exact	1994	Glass (ver 1.1, Break Edition, checksum 49D5E66B, Version 1994, set 2)		
+Clockwork Aquario (prototype).mra	aquario	2021	2021	year	mra-fallback	fallback				
+Street Fighter II' Champion Re-Edit (Hack, v0.29.7).mra	sf2cre	1992	1992	year	mra-fallback	fallback				
+Street Fighter II' Special Champion Edition (Sr Street hack).mra	sf2hfsce	1992	1992	year	mra-fallback	fallback				
