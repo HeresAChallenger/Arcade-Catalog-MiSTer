@@ -1,0 +1,9 @@
+Arcade Catalog - auditoria de anos
+=================================
+MRAs:                     0
+MAME exato:               0
+MAME estimado (YYYY?):     0
+Fallback do MRA:           0
+Sem ano aplicavel:         0
+Ano desconhecido:          0
+Divergencias MRA x canon:  0
