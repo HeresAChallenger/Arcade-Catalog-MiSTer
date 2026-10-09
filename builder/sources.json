@@ -1,12 +1,44 @@
 {
-  "schema": 1,
+  "schema": 2,
+  "minimum_total_mras": 500,
+  "note": "Coleta direta dos repositorios publicos; somente MRAs diretamente em _Arcade.",
   "sources": [
-    {"id":"distribution_mister","required":true,"url":"https://raw.githubusercontent.com/MiSTer-devel/Distribution_MiSTer/main/db.json.zip"},
-    {"id":"jtcores","required":false,"url":"https://raw.githubusercontent.com/jotego/jtcores_mister/main/jtbindb.json.zip"},
-    {"id":"coinop","required":false,"url":"https://raw.githubusercontent.com/Coin-OpCollection/Distribution-MiSTerFPGA/db/db.json.zip"},
-    {"id":"meatcores","required":false,"url":"https://raw.githubusercontent.com/meathax/meatcores/db/db.json.zip"},
-    {"id":"rmcores","required":false,"url":"https://raw.githubusercontent.com/rmonic79/rmcores/db/db.json.zip"},
-    {"id":"slop-core","required":false,"url":"https://raw.githubusercontent.com/TheJesusFish/Slop-Core/db/db.json.zip"},
-    {"id":"jlrh","required":false,"url":"https://raw.githubusercontent.com/jlrh/jlrh-misterfpga-db/db/db.json.zip"}
+    {
+      "id": "distribution_mister",
+      "enabled": true,
+      "required": true,
+      "minimum_mras": 500,
+      "archive_url": "https://github.com/MiSTer-devel/Distribution_MiSTer/archive/refs/heads/main.zip"
+    },
+    {
+      "id": "jtcores",
+      "enabled": true,
+      "required": false,
+      "archive_url": "https://github.com/jotego/jtcores_mister/archive/refs/heads/main.zip"
+    },
+    {
+      "id": "coinop",
+      "enabled": true,
+      "required": false,
+      "archive_url": "https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/archive/refs/heads/develop.zip"
+    },
+    {
+      "id": "meatcores",
+      "enabled": true,
+      "required": false,
+      "archive_url": "https://github.com/meathax/meatcores/archive/refs/heads/main.zip"
+    },
+    {
+      "id": "slop_core",
+      "enabled": true,
+      "required": false,
+      "archive_url": "https://github.com/TheJesusFish/Slop-Core/archive/refs/heads/main.zip"
+    },
+    {
+      "id": "jlrh",
+      "enabled": true,
+      "required": false,
+      "archive_url": "https://github.com/jlrh/jlrh-misterfpga-db/archive/refs/heads/main.zip"
+    }
   ]
 }
