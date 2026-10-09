@@ -17,6 +17,10 @@ jobs:
         run: |
           rm -rf generated/mras
           python builder/fetch_public_mras.py --sources builder/sources.json --out generated/mras
+          echo
+          echo "Cobertura por fonte:"
+          cat generated/mras/_sources_report.tsv
+          test "$(find generated/mras -type f -name '*.mra' | wc -l)" -ge 500
       - name: Baixar XML oficial da ultima versao do MAME
         env:
           GH_TOKEN: ${{ github.token }}
@@ -46,4 +50,3 @@ jobs:
             git commit -m 'chore: atualiza base canonica de anos'
             git push
           fi
-
