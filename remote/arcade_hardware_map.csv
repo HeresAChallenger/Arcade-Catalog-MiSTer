@@ -1,270 +1,271 @@
 pattern,game_company,company_board_label,board_company,board
-Arcade-SegaSystem32Multi,SEGA,System Multi 32,SEGA,System Multi 32
-atarisys1,ATARI,System 1,ATARI,System 1
-atarisys2,ATARI,System 2,ATARI,System 2
-cave,CAVE,CAVE 68000,CAVE,CAVE 68000
-CaveBanpresto,CAVE,CAVE 68000,CAVE,CAVE 68000
-DECOCassette,DATA EAST,DECO Cassette System,DATA EAST,DECO Cassette System
-donkeykong,NINTENDO,Donkey Kong Hardware,NINTENDO,Donkey Kong Hardware
-galaxian,NAMCO,Galaxian Hardware,NAMCO,Galaxian Hardware
-gauntlet,ATARI,Gauntlet Hardware,ATARI,Gauntlet Hardware
-ikacore_CV1k,CAVE,CV1000,CAVE,CV1000
-IremM107,IREM,M107,IREM,M107
-iremm62,IREM,M62,IREM,M62
-IremM72,IREM,M72 - M84,IREM,M72 - M84
-IremM90,IREM,M90,IREM,M90
-IremM92,IREM,M92,IREM,M92
-jtcps1,CAPCOM,CPS-1,CAPCOM,CPS-1
-jtcps2,CAPCOM,CPS-2,CAPCOM,CPS-2
-jts16,SEGA,System 16A,SEGA,System 16A
-jts16b,SEGA,System 16B,SEGA,System 16B
-jts18,SEGA,System 18,SEGA,System 18
-jtshouse,NAMCO,System 1,NAMCO,System 1
-pacman,NAMCO,Pac-Man Hardware,NAMCO,Pac-Man Hardware
-Raiden2,SEIBU KAIHATSU,Raiden II - Raiden DX,SEIBU KAIHATSU,Raiden II - Raiden DX
-s32GoldenAxe,SEGA,System 32,SEGA,System 32
-scramble,KONAMI,Scramble Hardware,KONAMI,Scramble Hardware
-SegaXBoard,SEGA,X Board,SEGA,X Board
-ST-V,SEGA,ST-V,SEGA,ST-V
-TaitoAsuka,TAITO,Asuka,TAITO,Asuka
-TaitoF2,TAITO,F2,TAITO,F2
-ZN2Capcom,CAPCOM,ZN-2,CAPCOM,ZN-2
-segasys1*,SEGA,System 1,SEGA,System 1
-TaitoSJ*,TAITO,SJ System,TAITO,SJ System
-megasys1_a*,JALECO,Mega System 1,JALECO,Mega System 1
-jtthundr*,NAMCO,System 86,NAMCO,System 86
-Qix*,TAITO,Qix Hardware,TAITO,Qix Hardware
-robotron*,WILLIAMS,Williams 6809 Hardware,WILLIAMS,Williams 6809 Hardware
-SMS*,SEGA,System E,SEGA,System E
-jtcps15*,CAPCOM,CPS-1.5 - QSound,CAPCOM,CPS-1.5 - QSound
-jtcps3*,CAPCOM,CPS-3,CAPCOM,CPS-3
-jtkiwi*,TAITO,TNZS Hardware,TAITO,TNZS Hardware
-Arcade-WolfUnit*,MIDWAY,Wolf Unit,MIDWAY,Wolf Unit
-Arcade-UMK3_SRT_ERASE*,MIDWAY,Wolf Unit,MIDWAY,Wolf Unit
-YUnit09042026r36*,MIDWAY,Y Unit,MIDWAY,Y Unit
-YUnitADPCM09052026r41*,MIDWAY,Y Unit,MIDWAY,Y Unit
-armedf*,NICHIBUTSU,Armed F Hardware,NICHIBUTSU,Armed F Hardware
-mcr1*,MIDWAY,MCR I,MIDWAY,MCR I
-mcr2*,MIDWAY,MCR II,MIDWAY,MCR II
-mcr3*,MIDWAY,MCR III,MIDWAY,MCR III
-mcr3mono*,MIDWAY,MCR III,MIDWAY,MCR III
-mcr3scroll*,MIDWAY,MCR III,MIDWAY,MCR III
+Arcade-SegaSystem32Multi,Sega,System Multi 32,Sega,System Multi 32
+atarisys1,Atari,System 1,Atari,System 1
+atarisys2,Atari,System 2,Atari,System 2
+cave,Cave,CAVE 68000,Cave,CAVE 68000
+CaveBanpresto,Cave,CAVE 68000,Cave,CAVE 68000
+DECOCassette,Data East,DECO Cassette System,Data East,DECO Cassette System
+donkeykong,Nintendo,Donkey Kong Hardware,Nintendo,Donkey Kong Hardware
+galaxian,Namco,Galaxian Hardware,Namco,Galaxian Hardware
+gauntlet,Atari,Gauntlet Hardware,Atari,Gauntlet Hardware
+ikacore_CV1k,Cave,CV1000,Cave,CV1000
+IremM107,Irem,M107,Irem,M107
+iremm62,Irem,M62,Irem,M62
+IremM72,Irem,M72 - M84,Irem,M72 - M84
+IremM90,Irem,M90,Irem,M90
+IremM92,Irem,M92,Irem,M92
+jtcps1,Capcom,CPS-1,Capcom,CPS-1
+jtcps2,Capcom,CPS-2,Capcom,CPS-2
+jts16,Sega,System 16A,Sega,System 16A
+jts16b,Sega,System 16B,Sega,System 16B
+jts18,Sega,System 18,Sega,System 18
+jtshouse,Namco,System 1,Namco,System 1
+pacman,Namco,Pac-Man Hardware,Namco,Pac-Man Hardware
+Raiden2,Seibu Kaihatsu,Raiden II - Raiden DX,Seibu Kaihatsu,Raiden II - Raiden DX
+s32GoldenAxe,Sega,System 32,Sega,System 32
+scramble,Konami,Scramble Hardware,Konami,Scramble Hardware
+SegaXBoard,Sega,X Board,Sega,X Board
+ST-V,Sega,ST-V,Sega,ST-V
+TaitoAsuka,Taito,Asuka,Taito,Asuka
+TaitoF2,Taito,F2,Taito,F2
+ZN2Capcom,Capcom,ZN-2,Capcom,ZN-2
+segasys1*,Sega,System 1,Sega,System 1
+TaitoSJ*,Taito,SJ System,Taito,SJ System
+megasys1_a*,Jaleco,Mega System 1,Jaleco,Mega System 1
+jtthundr*,Namco,System 86,Namco,System 86
+Qix*,Taito,Qix Hardware,Taito,Qix Hardware
+robotron*,Williams,Williams 6809 Hardware,Williams,Williams 6809 Hardware
+SMS*,Sega,System E,Sega,System E
+jtcps15*,Capcom,CPS-1.5 - QSound,Capcom,CPS-1.5 - QSound
+jtcps3*,Capcom,CPS-3,Capcom,CPS-3
+jtkiwi*,Taito,TNZS Hardware,Taito,TNZS Hardware
+Arcade-WolfUnit*,Midway,Wolf Unit,Midway,Wolf Unit
+Arcade-UMK3_SRT_ERASE*,Midway,Wolf Unit,Midway,Wolf Unit
+YUnit09042026r36*,Midway,Y Unit,Midway,Y Unit
+YUnitADPCM09052026r41*,Midway,Y Unit,Midway,Y Unit
+armedf*,Nichibutsu,Armed F Hardware,Nichibutsu,Armed F Hardware
+mcr1*,Midway,MCR I,Midway,MCR I
+mcr2*,Midway,MCR II,Midway,MCR II
+mcr3*,Midway,MCR III,Midway,MCR III
+mcr3mono*,Midway,MCR III,Midway,MCR III
+mcr3scroll*,Midway,MCR III,Midway,MCR III
 SNK6502*,SNK,6502 Hardware,SNK,6502 Hardware
 SNK68*,SNK,68K Hardware,SNK,68K Hardware
 SNK_TripleZ80*,SNK,Triple Z80 Hardware,SNK,Triple Z80 Hardware
-jttaitox*,TAITO,X System,TAITO,X System
-Psikyo*,PSIKYO,Psikyo 1st Generation,PSIKYO,Psikyo 1st Generation
-PsikyoSH2*,PSIKYO,Psikyo SH-2,PSIKYO,Psikyo SH-2
-Fuuki*,FUUKI,FG-2 - FG-3,FUUKI,FG-2 - FG-3
-deco16*,DATA EAST,DECO 16-bit,DATA EAST,DECO 16-bit
-jtgae1*,GAELCO,GAE1,GAELCO,GAE1
-jtrastan*,TAITO,Rastan Hardware,TAITO,Rastan Hardware
-jtriders*,KONAMI,TMNT2 - Sunset Riders Hardware,KONAMI,TMNT2 - Sunset Riders Hardware
-jttmnt*,KONAMI,TMNT Hardware,KONAMI,TMNT Hardware
-druaga*,NAMCO,Super Pac-Man - Mappy Hardware,NAMCO,Super Pac-Man - Mappy Hardware
-BubSysROM*,KONAMI,Bubble System,KONAMI,Bubble System
-BubSys*,KONAMI,Bubble System,KONAMI,Bubble System
-jt1942*,CAPCOM,1942 Hardware,CAPCOM,1942 Hardware
-jt1943*,CAPCOM,1943 Hardware,CAPCOM,1943 Hardware
-jtgaiden*,TECMO,Tecmo 16-bit,TECMO,Tecmo 16-bit
-jtharier*,SEGA,Space Harrier Hardware,SEGA,Space Harrier Hardware
-SegaSpaceHarrier*,SEGA,Space Harrier Hardware,SEGA,Space Harrier Hardware
-jtkarnov*,DATA EAST,Karnov Hardware,DATA EAST,Karnov Hardware
-Tecmo*,TECMO,Tecmo 8-bit Hardware,TECMO,Tecmo 8-bit Hardware
-zaxxon*,SEGA,Zaxxon Hardware,SEGA,Zaxxon Hardware
-SegaG80V*,SEGA,G80 Vector,SEGA,G80 Vector
-SegaVICZ80*,SEGA,VIC Dual,SEGA,VIC Dual
-SegaS32*,SEGA,System 32,SEGA,System 32
+jttaitox*,Taito,X System,Taito,X System
+Psikyo*,Psikyo,Psikyo 1st Generation,Psikyo,Psikyo 1st Generation
+PsikyoSH2*,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+Fuuki*,Fuuki,FG-2 - FG-3,Fuuki,FG-2 - FG-3
+deco16*,Data East,DECO 16-bit,Data East,DECO 16-bit
+jtgae1*,Gaelco,GAE1,Gaelco,GAE1
+jtrastan*,Taito,Rastan Hardware,Taito,Rastan Hardware
+jtriders*,Konami,TMNT2 - Sunset Riders Hardware,Konami,TMNT2 - Sunset Riders Hardware
+jttmnt*,Konami,TMNT Hardware,Konami,TMNT Hardware
+druaga*,Namco,Super Pac-Man - Mappy Hardware,Namco,Super Pac-Man - Mappy Hardware
+BubSysROM*,Konami,Bubble System,Konami,Bubble System
+BubSys*,Konami,Bubble System,Konami,Bubble System
+jt1942*,Capcom,1942 Hardware,Capcom,1942 Hardware
+jt1943*,Capcom,1943 Hardware,Capcom,1943 Hardware
+jtgaiden*,Tecmo,Tecmo 16-bit,Tecmo,Tecmo 16-bit
+jtharier*,Sega,Space Harrier Hardware,Sega,Space Harrier Hardware
+SegaSpaceHarrier*,Sega,Space Harrier Hardware,Sega,Space Harrier Hardware
+jtkarnov*,Data East,Karnov Hardware,Data East,Karnov Hardware
+Tecmo*,Tecmo,Tecmo 8-bit Hardware,Tecmo,Tecmo 8-bit Hardware
+zaxxon*,Sega,Zaxxon Hardware,Sega,Zaxxon Hardware
+SegaG80V*,Sega,G80 Vector,Sega,G80 Vector
+SegaVICZ80*,Sega,VIC Dual,Sega,VIC Dual
+SegaS32*,Sega,System 32,Sega,System 32
 alpha68k*,SNK,Alpha 68K,SNK,Alpha 68K
-Asteroids*,ATARI,Vector - Asteroids,ATARI,Vector - Asteroids
-BattleZone*,ATARI,Vector - Battlezone,ATARI,Vector - Battlezone
-blackwidow*,ATARI,Vector - Black Widow - Gravitar,ATARI,Vector - Black Widow - Gravitar
-StarWars*,ATARI,Vector - Star Wars,ATARI,Vector - Star Wars
-Tempest*,ATARI,Vector - Tempest,ATARI,Vector - Tempest
-MajorHavoc*,ATARI,Vector - Major Havoc,ATARI,Vector - Major Havoc
-PolePosition*,NAMCO,Pole Position Hardware,NAMCO,Pole Position Hardware
-rallyx*,NAMCO,Rally-X Hardware,NAMCO,Rally-X Hardware
-xevious*,NAMCO,Xevious Hardware,NAMCO,Xevious Hardware
-digdug*,NAMCO,Galaga - Dig Dug Hardware,NAMCO,Galaga - Dig Dug Hardware
-galaga*,NAMCO,Galaga Hardware,NAMCO,Galaga Hardware
-gaplus*,NAMCO,Gaplus Hardware,NAMCO,Gaplus Hardware
-bosconian*,NAMCO,Bosconian Hardware,NAMCO,Bosconian Hardware
-popeye*,NINTENDO,Popeye Hardware,NINTENDO,Popeye Hardware
-mariobros*,NINTENDO,Mario Bros. Hardware,NINTENDO,Mario Bros. Hardware
-donkeykong3*,NINTENDO,Donkey Kong 3 Hardware,NINTENDO,Donkey Kong 3 Hardware
-donkeykongjunior*,NINTENDO,Donkey Kong Jr. Hardware,NINTENDO,Donkey Kong Jr. Hardware
-TaitoAir*,TAITO,Air System,TAITO,Air System
-Darius*,TAITO,Darius Hardware,TAITO,Darius Hardware
-Darius2NinjaWarriors*,TAITO,Darius II - Ninja Warriors Hardware,TAITO,Darius II - Ninja Warriors Hardware
-Darius2WarriorBlade*,TAITO,Darius II - Warrior Blade Hardware,TAITO,Darius II - Warrior Blade Hardware
-syvalion*,TAITO,H System,TAITO,H System
-Volfied*,TAITO,Volfied Hardware,TAITO,Volfied Hardware
-jtvlfied*,TAITO,Volfied Hardware,TAITO,Volfied Hardware
-Asuka_bazset*,TAITO,Asuka,TAITO,Asuka
-BonzeAdventure_bazset*,TAITO,Asuka,TAITO,Asuka
-Cadash_bazset*,TAITO,Asuka,TAITO,Asuka
-EarthJoker_bazset*,TAITO,Asuka,TAITO,Asuka
-Galmedes_bazset*,TAITO,Asuka,TAITO,Asuka
-MazeOfFlott_bazset*,TAITO,Asuka,TAITO,Asuka
-Rbisland_bazset*,TAITO,Rastan Hardware,TAITO,Rastan Hardware
-jtbubl*,TAITO,Bubble Bobble Hardware,TAITO,Bubble Bobble Hardware
-arkanoid*,TAITO,Arkanoid Hardware,TAITO,Arkanoid Hardware
-jtbtiger*,CAPCOM,Black Tiger Hardware,CAPCOM,Black Tiger Hardware
-jtbiocom*,CAPCOM,Bionic Commando Hardware,CAPCOM,Bionic Commando Hardware
-jtcommnd*,CAPCOM,Commando Hardware,CAPCOM,Commando Hardware
-jtexed*,CAPCOM,Exed Exes Hardware,CAPCOM,Exed Exes Hardware
-jtgng*,CAPCOM,Ghosts 'n Goblins Hardware,CAPCOM,Ghosts 'n Goblins Hardware
-jtgunsmk*,CAPCOM,Gun.Smoke Hardware,CAPCOM,Gun.Smoke Hardware
-jtsarms*,CAPCOM,Side Arms Hardware,CAPCOM,Side Arms Hardware
-jtsf*,CAPCOM,Street Fighter Hardware,CAPCOM,Street Fighter Hardware
-jtsectnz*,CAPCOM,Legendary Wings Hardware,CAPCOM,Legendary Wings Hardware
-jttora*,CAPCOM,Tiger Road Hardware,CAPCOM,Tiger Road Hardware
-jttrojan*,CAPCOM,Trojan Hardware,CAPCOM,Trojan Hardware
-jtmadgear*,CAPCOM,Mad Gear Hardware,CAPCOM,Mad Gear Hardware
-jtdd*,TECHNOS,Double Dragon Hardware,TECHNOS,Double Dragon Hardware
-jtdd2*,TECHNOS,Double Dragon II Hardware,TECHNOS,Double Dragon II Hardware
-jtkunio*,TECHNOS,Renegade Hardware,TECHNOS,Renegade Hardware
-jtwwfss*,TECHNOS,WWF Superstars Hardware,TECHNOS,WWF Superstars Hardware
-jtkchamp*,DATA EAST,Karate Champ Hardware,DATA EAST,Karate Champ Hardware
-jtninja*,DATA EAST,DECO 8-bit - 16-bit,DATA EAST,DECO 8-bit - 16-bit
-jtcop*,DATA EAST,DECO 16-bit,DATA EAST,DECO 16-bit
-jtmidres*,DATA EAST,DECO 16-bit,DATA EAST,DECO 16-bit
-jtslyspy*,DATA EAST,DECO 16-bit,DATA EAST,DECO 16-bit
-jtpktgal*,DATA EAST,DECO 8-bit,DATA EAST,DECO 8-bit
-BloodBros*,SEIBU,Blood Bros. Hardware,SEIBU,Blood Bros. Hardware
-Raiden*,SEIBU,Raiden Hardware,SEIBU,Raiden Hardware
-SeibuCupSoccer*,SEIBU,Seibu 68000 Hardware,SEIBU,Seibu 68000 Hardware
-jtsimson*,KONAMI,Konami 68000,KONAMI,Konami 68000
-jtaliens*,KONAMI,Konami 68000,KONAMI,Konami 68000
-jtxmen*,KONAMI,X-Men Hardware,KONAMI,X-Men Hardware
-mystwarr*,KONAMI,Mystic Warriors Hardware,KONAMI,Mystic Warriors Hardware
-gijoe_mister*,KONAMI,G.I. Joe Hardware,KONAMI,G.I. Joe Hardware
-cowboys*,KONAMI,Mystic Warriors Hardware,KONAMI,Mystic Warriors Hardware
-Arcade-Bucky*,KONAMI,Bucky O'Hare Hardware,KONAMI,Bucky O'Hare Hardware
-jtajax*,KONAMI,GX770 - Ajax Hardware,KONAMI,GX770 - Ajax Hardware
-jtgrad3*,KONAMI,Gradius III Hardware,KONAMI,Gradius III Hardware
-nemesis*,KONAMI,GX400 - Nemesis Hardware,KONAMI,GX400 - Nemesis Hardware
-Salamander*,KONAMI,GX587 - Salamander Hardware,KONAMI,GX587 - Salamander Hardware
-Gyruss*,KONAMI,Gyruss Hardware,KONAMI,Gyruss Hardware
-Finalizer*,KONAMI,Finalizer Hardware,KONAMI,Finalizer Hardware
-IronHorse*,KONAMI,Iron Horse Hardware,KONAMI,Iron Horse Hardware
-Jackal*,KONAMI,Jackal Hardware,KONAMI,Jackal Hardware
-Jailbreak*,KONAMI,Jail Break Hardware,KONAMI,Jail Break Hardware
-Tutankham*,KONAMI,Tutankham Hardware,KONAMI,Tutankham Hardware
-pooyan*,KONAMI,Pooyan Hardware,KONAMI,Pooyan Hardware
-timepilot*,KONAMI,Time Pilot Hardware,KONAMI,Time Pilot Hardware
-TimePilot84*,KONAMI,Time Pilot '84 Hardware,KONAMI,Time Pilot '84 Hardware
-jtyiear*,KONAMI,Yie Ar Kung-Fu Hardware,KONAMI,Yie Ar Kung-Fu Hardware
-jtkicker*,KONAMI,Kicker Hardware,KONAMI,Kicker Hardware
-jtmikie*,KONAMI,Mikie Hardware,KONAMI,Mikie Hardware
-jtpinpon*,KONAMI,Ping Pong Hardware,KONAMI,Ping Pong Hardware
-jttrack*,KONAMI,Track & Field Hardware,KONAMI,Track & Field Hardware
-jtroadf*,KONAMI,Hyper Sports - Road Fighter Hardware,KONAMI,Hyper Sports - Road Fighter Hardware
-rshnatk*,KONAMI,Green Beret Hardware,KONAMI,Green Beret Hardware
-zerowing_20240404*,TOAPLAN,Toaplan V1,TOAPLAN,Toaplan V1
-zerowing_mister*,TOAPLAN,Toaplan V1,TOAPLAN,Toaplan V1
-demonwld_mister*,TOAPLAN,Toaplan V1,TOAPLAN,Toaplan V1
-fshark_mister*,TOAPLAN,Toaplan V1,TOAPLAN,Toaplan V1
-rallybike*,TOAPLAN,Toaplan V1,TOAPLAN,Toaplan V1
-twincobr_mister*,TOAPLAN,Toaplan V1,TOAPLAN,Toaplan V1
-wardner_mister*,TOAPLAN,Toaplan V1,TOAPLAN,Toaplan V1
-Dogyuun*,TOAPLAN,Toaplan V2,TOAPLAN,Toaplan V2
-pipibibs*,TOAPLAN,Toaplan V2,TOAPLAN,Toaplan V2
-tekipaki*,TOAPLAN,Toaplan V2,TOAPLAN,Toaplan V2
-truxton2*,TOAPLAN,Toaplan V2,TOAPLAN,Toaplan V2
-vimana*,TOAPLAN,Toaplan V1,TOAPLAN,Toaplan V1
-batrider_mister*,RAIZING / EIGHTING,Raizing,RAIZING / EIGHTING,Raizing
-bbakraid_mister*,RAIZING / EIGHTING,Raizing,RAIZING / EIGHTING,Raizing
-bgaregga_mister*,RAIZING / EIGHTING,Raizing,RAIZING / EIGHTING,Raizing
-kingdmgp_mister*,RAIZING / EIGHTING,Raizing,RAIZING / EIGHTING,Raizing
-sstriker_mister*,RAIZING / EIGHTING,Raizing,RAIZING / EIGHTING,Raizing
-Aleck64*,SETA,Aleck 64,SETA,Aleck 64
-vunit*,MIDWAY,V Unit,MIDWAY,V Unit
-RevX_*,MIDWAY,X Unit - Revolution X,MIDWAY,X Unit - Revolution X
-Arcade-Atari-GT_*,ATARI GAMES,GT Hardware,ATARI GAMES,GT Hardware
-Arcade-Primal2*,ATARI GAMES,GT Hardware,ATARI GAMES,GT Hardware
-KillerInstinct*,RARE / MIDWAY,Killer Instinct Hardware,RARE / MIDWAY,Killer Instinct Hardware
-jtpang*,MITCHELL,Mitchell Pang Hardware,MITCHELL,Mitchell Pang Hardware
-jtflstory*,TAITO,The FairyLand Story Hardware,TAITO,The FairyLand Story Hardware
-Exidy2*,EXIDY,Exidy 440,EXIDY,Exidy 440
-ffaerofgt*,VIDEO SYSTEM,Aero Fighters Hardware,VIDEO SYSTEM,Aero Fighters Hardware
-jtaligator*,GAELCO,GAE1,GAELCO,GAE1
-agallet_mister*,GAZELLE / BANPRESTO,CAVE 68000,GAZELLE / BANPRESTO,CAVE 68000
-SlapFight*,TOAPLAN,Slap Fight Hardware,TOAPLAN,Slap Fight Hardware
-Arabian*,SUN ELECTRONICS,Arabian Hardware,SUN ELECTRONICS,Arabian Hardware
+Asteroids*,Atari,Vector - Asteroids,Atari,Vector - Asteroids
+BattleZone*,Atari,Vector - Battlezone,Atari,Vector - Battlezone
+blackwidow*,Atari,Vector - Black Widow - Gravitar,Atari,Vector - Black Widow - Gravitar
+StarWars*,Atari,Vector - Star Wars,Atari,Vector - Star Wars
+Tempest*,Atari,Vector - Tempest,Atari,Vector - Tempest
+MajorHavoc*,Atari,Vector - Major Havoc,Atari,Vector - Major Havoc
+PolePosition*,Namco,Pole Position Hardware,Namco,Pole Position Hardware
+rallyx*,Namco,Rally-X Hardware,Namco,Rally-X Hardware
+xevious*,Namco,Xevious Hardware,Namco,Xevious Hardware
+digdug*,Namco,Galaga - Dig Dug Hardware,Namco,Galaga - Dig Dug Hardware
+galaga*,Namco,Galaga Hardware,Namco,Galaga Hardware
+gaplus*,Namco,Gaplus Hardware,Namco,Gaplus Hardware
+bosconian*,Namco,Bosconian Hardware,Namco,Bosconian Hardware
+popeye*,Nintendo,Popeye Hardware,Nintendo,Popeye Hardware
+mariobros*,Nintendo,Mario Bros. Hardware,Nintendo,Mario Bros. Hardware
+donkeykong3*,Nintendo,Donkey Kong 3 Hardware,Nintendo,Donkey Kong 3 Hardware
+donkeykongjunior*,Nintendo,Donkey Kong Jr. Hardware,Nintendo,Donkey Kong Jr. Hardware
+TaitoAir*,Taito,Air System,Taito,Air System
+Darius*,Taito,Darius Hardware,Taito,Darius Hardware
+Darius2NinjaWarriors*,Taito,Darius II - Ninja Warriors Hardware,Taito,Darius II - Ninja Warriors Hardware
+Darius2WarriorBlade*,Taito,Darius II - Warrior Blade Hardware,Taito,Darius II - Warrior Blade Hardware
+syvalion*,Taito,H System,Taito,H System
+Volfied*,Taito,Volfied Hardware,Taito,Volfied Hardware
+jtvlfied*,Taito,Volfied Hardware,Taito,Volfied Hardware
+Asuka_bazset*,Taito,Asuka,Taito,Asuka
+BonzeAdventure_bazset*,Taito,Asuka,Taito,Asuka
+Cadash_bazset*,Taito,Asuka,Taito,Asuka
+EarthJoker_bazset*,Taito,Asuka,Taito,Asuka
+Galmedes_bazset*,Taito,Asuka,Taito,Asuka
+MazeOfFlott_bazset*,Taito,Asuka,Taito,Asuka
+Rbisland_bazset*,Taito,Rastan Hardware,Taito,Rastan Hardware
+jtbubl*,Taito,Bubble Bobble Hardware,Taito,Bubble Bobble Hardware
+arkanoid*,Taito,Arkanoid Hardware,Taito,Arkanoid Hardware
+jtbtiger*,Capcom,Black Tiger Hardware,Capcom,Black Tiger Hardware
+jtbiocom*,Capcom,Bionic Commando Hardware,Capcom,Bionic Commando Hardware
+jtcommnd*,Capcom,Commando Hardware,Capcom,Commando Hardware
+jtexed*,Capcom,Exed Exes Hardware,Capcom,Exed Exes Hardware
+jtgng*,Capcom,Ghosts 'n Goblins Hardware,Capcom,Ghosts 'n Goblins Hardware
+jtgunsmk*,Capcom,Gun.Smoke Hardware,Capcom,Gun.Smoke Hardware
+jtsarms*,Capcom,Side Arms Hardware,Capcom,Side Arms Hardware
+jtsf*,Capcom,Street Fighter Hardware,Capcom,Street Fighter Hardware
+jtsectnz*,Capcom,Legendary Wings Hardware,Capcom,Legendary Wings Hardware
+jttora*,Capcom,Tiger Road Hardware,Capcom,Tiger Road Hardware
+jttrojan*,Capcom,Trojan Hardware,Capcom,Trojan Hardware
+jtmadgear*,Capcom,Mad Gear Hardware,Capcom,Mad Gear Hardware
+jtdd*,Technos,Double Dragon Hardware,Technos,Double Dragon Hardware
+jtdd2*,Technos,Double Dragon II Hardware,Technos,Double Dragon II Hardware
+jtkunio*,Technos,Renegade Hardware,Technos,Renegade Hardware
+jtwwfss*,Technos,WWF Superstars Hardware,Technos,WWF Superstars Hardware
+jtkchamp*,Data East,Karate Champ Hardware,Data East,Karate Champ Hardware
+jtninja*,Data East,DECO 8-bit - 16-bit,Data East,DECO 8-bit - 16-bit
+jtcop*,Data East,DECO 16-bit,Data East,DECO 16-bit
+jtmidres*,Data East,DECO 16-bit,Data East,DECO 16-bit
+jtslyspy*,Data East,DECO 16-bit,Data East,DECO 16-bit
+jtpktgal*,Data East,DECO 8-bit,Data East,DECO 8-bit
+BloodBros*,Seibu,Blood Bros. Hardware,Seibu,Blood Bros. Hardware
+Raiden*,Seibu,Raiden Hardware,Seibu,Raiden Hardware
+SeibuCupSoccer*,Seibu,Seibu 68000 Hardware,Seibu,Seibu 68000 Hardware
+jtsimson*,Konami,Konami 68000,Konami,Konami 68000
+jtaliens*,Konami,Konami 68000,Konami,Konami 68000
+jtxmen*,Konami,X-Men Hardware,Konami,X-Men Hardware
+mystwarr*,Konami,Mystic Warriors Hardware,Konami,Mystic Warriors Hardware
+gijoe_mister*,Konami,G.I. Joe Hardware,Konami,G.I. Joe Hardware
+cowboys*,Konami,Mystic Warriors Hardware,Konami,Mystic Warriors Hardware
+Arcade-Bucky*,Konami,Bucky O'Hare Hardware,Konami,Bucky O'Hare Hardware
+jtajax*,Konami,GX770 - Ajax Hardware,Konami,GX770 - Ajax Hardware
+jtgrad3*,Konami,Gradius III Hardware,Konami,Gradius III Hardware
+nemesis*,Konami,GX400 - Nemesis Hardware,Konami,GX400 - Nemesis Hardware
+Salamander*,Konami,GX587 - Salamander Hardware,Konami,GX587 - Salamander Hardware
+Gyruss*,Konami,Gyruss Hardware,Konami,Gyruss Hardware
+Finalizer*,Konami,Finalizer Hardware,Konami,Finalizer Hardware
+IronHorse*,Konami,Iron Horse Hardware,Konami,Iron Horse Hardware
+Jackal*,Konami,Jackal Hardware,Konami,Jackal Hardware
+Jailbreak*,Konami,Jail Break Hardware,Konami,Jail Break Hardware
+Tutankham*,Konami,Tutankham Hardware,Konami,Tutankham Hardware
+pooyan*,Konami,Pooyan Hardware,Konami,Pooyan Hardware
+timepilot*,Konami,Time Pilot Hardware,Konami,Time Pilot Hardware
+TimePilot84*,Konami,Time Pilot '84 Hardware,Konami,Time Pilot '84 Hardware
+jtyiear*,Konami,Yie Ar Kung-Fu Hardware,Konami,Yie Ar Kung-Fu Hardware
+jtkicker*,Konami,Kicker Hardware,Konami,Kicker Hardware
+jtmikie*,Konami,Mikie Hardware,Konami,Mikie Hardware
+jtpinpon*,Konami,Ping Pong Hardware,Konami,Ping Pong Hardware
+jttrack*,Konami,Track & Field Hardware,Konami,Track & Field Hardware
+jtroadf*,Konami,Hyper Sports - Road Fighter Hardware,Konami,Hyper Sports - Road Fighter Hardware
+rshnatk*,Konami,Green Beret Hardware,Konami,Green Beret Hardware
+zerowing_20240404*,Toaplan,Toaplan V1,Toaplan,Toaplan V1
+zerowing_mister*,Toaplan,Toaplan V1,Toaplan,Toaplan V1
+demonwld_mister*,Toaplan,Toaplan V1,Toaplan,Toaplan V1
+fshark_mister*,Toaplan,Toaplan V1,Toaplan,Toaplan V1
+rallybike*,Toaplan,Toaplan V1,Toaplan,Toaplan V1
+twincobr_mister*,Toaplan,Toaplan V1,Toaplan,Toaplan V1
+wardner_mister*,Toaplan,Toaplan V1,Toaplan,Toaplan V1
+Dogyuun*,Toaplan,Toaplan V2,Toaplan,Toaplan V2
+pipibibs*,Toaplan,Toaplan V2,Toaplan,Toaplan V2
+tekipaki*,Toaplan,Toaplan V2,Toaplan,Toaplan V2
+truxton2*,Toaplan,Toaplan V2,Toaplan,Toaplan V2
+vimana*,Toaplan,Toaplan V1,Toaplan,Toaplan V1
+batrider_mister*,Raizing / Eighting,Raizing,Raizing / Eighting,Raizing
+bbakraid_mister*,Raizing / Eighting,Raizing,Raizing / Eighting,Raizing
+bgaregga_mister*,Raizing / Eighting,Raizing,Raizing / Eighting,Raizing
+kingdmgp_mister*,Raizing / Eighting,Raizing,Raizing / Eighting,Raizing
+sstriker_mister*,Raizing / Eighting,Raizing,Raizing / Eighting,Raizing
+Aleck64*,Seta,Aleck 64,Seta,Aleck 64
+vunit*,Midway,V Unit,Midway,V Unit
+RevX_*,Midway,X Unit - Revolution X,Midway,X Unit - Revolution X
+Arcade-Atari-GT_*,Atari Games,GT Hardware,Atari Games,GT Hardware
+Arcade-Primal2*,Atari Games,GT Hardware,Atari Games,GT Hardware
+KillerInstinct*,Rare / Midway,Killer Instinct Hardware,Rare / Midway,Killer Instinct Hardware
+jtpang*,Mitchell,Mitchell Pang Hardware,Mitchell,Mitchell Pang Hardware
+jtflstory*,Taito,The FairyLand Story Hardware,Taito,The FairyLand Story Hardware
+Exidy2*,Exidy,Exidy 440,Exidy,Exidy 440
+ffaerofgt*,Video System,Aero Fighters Hardware,Video System,Aero Fighters Hardware
+jtaligator*,Gaelco,GAE1,Gaelco,GAE1
+agallet_mister*,Gazelle / Banpresto,CAVE 68000,Gazelle / Banpresto,CAVE 68000
+SlapFight*,Toaplan,Slap Fight Hardware,Toaplan,Slap Fight Hardware
+Arabian*,Sun Electronics,Arabian Hardware,Sun Electronics,Arabian Hardware
 UPLFramebuffer*,UPL,UPL 16-bit Hardware,UPL,UPL 16-bit Hardware
 Athena*,SNK,Athena Hardware,SNK,Athena Hardware
-Badlands*,ATARI,System 1,ATARI,System 1
-bagman*,VALADON AUTOMATION,Bagman Hardware,VALADON AUTOMATION,Bagman Hardware
-berzerk*,STERN,Berzerk Hardware,STERN,Berzerk Hardware
-Blasteroids*,ATARI,System 1,ATARI,System 1
-blockade*,GREMLIN,Blockade Hardware,GREMLIN,Blockade Hardware
-bankpanic*,SEGA,Bank Panic Hardware,SEGA,Bank Panic Hardware
-starforce*,TEHKAN,Star Force Hardware,TEHKAN,Star Force Hardware
-z80bw*,TAITO / MIDWAY,8080 Black-and-White Hardware,TAITO / MIDWAY,8080 Black-and-White Hardware
-Galaxian*,NAMCO,Galaxian Hardware,NAMCO,Galaxian Hardware
-Phoenix*,AMSTAR / CENTURI,Phoenix Hardware,AMSTAR / CENTURI,Phoenix Hardware
-MoonCresta*,NICHIBUTSU,Moon Cresta Hardware,NICHIBUTSU,Moon Cresta Hardware
-Scramble*,KONAMI,Scramble Hardware,KONAMI,Scramble Hardware
-BombJack*,TEHKAN,Bomb Jack Hardware,TEHKAN,Bomb Jack Hardware
-Commando*,CAPCOM,Commando Hardware,CAPCOM,Commando Hardware
-1943*,CAPCOM,1943 Hardware,CAPCOM,1943 Hardware
-Vulgus*,CAPCOM,Vulgus Hardware,CAPCOM,Vulgus Hardware
-Mappy*,NAMCO,Mappy Hardware,NAMCO,Mappy Hardware
-Pacman*,NAMCO,Pac-Man Hardware,NAMCO,Pac-Man Hardware
-Pengo*,SEGA,Pengo Hardware,SEGA,Pengo Hardware
-Frogger*,KONAMI,Frogger Hardware,KONAMI,Frogger Hardware
-BurgerTime*,DATA EAST,BurgerTime Hardware,DATA EAST,BurgerTime Hardware
-DonkeyKong*,NINTENDO,Donkey Kong Hardware,NINTENDO,Donkey Kong Hardware
-Astrocade*,MIDWAY,Astrocade Hardware,MIDWAY,Astrocade Hardware
-Williams2*,WILLIAMS,Williams 6809 Hardware,WILLIAMS,Williams 6809 Hardware
-Williams*,WILLIAMS,Williams 6809 Hardware,WILLIAMS,Williams 6809 Hardware
-IremM62*,IREM,M62,IREM,M62
-IremM72*,IREM,M72 - M84,IREM,M72 - M84
-IremM90*,IREM,M90,IREM,M90
-IremM92*,IREM,M92,IREM,M92
-IremM107*,IREM,M107,IREM,M107
+Badlands*,Atari,System 1,Atari,System 1
+bagman*,Valadon Automation,Bagman Hardware,Valadon Automation,Bagman Hardware
+berzerk*,Stern,Berzerk Hardware,Stern,Berzerk Hardware
+Blasteroids*,Atari,System 1,Atari,System 1
+blockade*,Gremlin,Blockade Hardware,Gremlin,Blockade Hardware
+bankpanic*,Sega,Bank Panic Hardware,Sega,Bank Panic Hardware
+starforce*,Tehkan,Star Force Hardware,Tehkan,Star Force Hardware
+z80bw*,Taito / Midway,8080 Black-and-White Hardware,Taito / Midway,8080 Black-and-White Hardware
+Galaxian*,Namco,Galaxian Hardware,Namco,Galaxian Hardware
+Phoenix*,Amstar / Centuri,Phoenix Hardware,Amstar / Centuri,Phoenix Hardware
+MoonCresta*,Nichibutsu,Moon Cresta Hardware,Nichibutsu,Moon Cresta Hardware
+Scramble*,Konami,Scramble Hardware,Konami,Scramble Hardware
+BombJack*,Tehkan,Bomb Jack Hardware,Tehkan,Bomb Jack Hardware
+Commando*,Capcom,Commando Hardware,Capcom,Commando Hardware
+1943*,Capcom,1943 Hardware,Capcom,1943 Hardware
+Vulgus*,Capcom,Vulgus Hardware,Capcom,Vulgus Hardware
+Mappy*,Namco,Mappy Hardware,Namco,Mappy Hardware
+Pacman*,Namco,Pac-Man Hardware,Namco,Pac-Man Hardware
+Pengo*,Sega,Pengo Hardware,Sega,Pengo Hardware
+Frogger*,Konami,Frogger Hardware,Konami,Frogger Hardware
+BurgerTime*,Data East,BurgerTime Hardware,Data East,BurgerTime Hardware
+DonkeyKong*,Nintendo,Donkey Kong Hardware,Nintendo,Donkey Kong Hardware
+Astrocade*,Midway,Astrocade Hardware,Midway,Astrocade Hardware
+Williams2*,Williams,Williams 6809 Hardware,Williams,Williams 6809 Hardware
+Williams*,Williams,Williams 6809 Hardware,Williams,Williams 6809 Hardware
+IremM62*,Irem,M62,Irem,M62
+IremM72*,Irem,M72 - M84,Irem,M72 - M84
+IremM90*,Irem,M90,Irem,M90
+IremM92*,Irem,M92,Irem,M92
+IremM107*,Irem,M107,Irem,M107
 IGSPGM*,IGS,PGM,IGS,PGM
-tiamc1*,TERMINAL,TIA-MC1,TERMINAL,TIA-MC1
-ChampionBaseball*,ALPHA DENSHI,Champion Baseball Hardware,ALPHA DENSHI,Champion Baseball Hardware
-qbert*,GOTTLIEB / MYLSTAR,Gottlieb Video System,GOTTLIEB,Gottlieb Video System
-cosmic*,UNIVERSAL,Cosmic Hardware,UNIVERSAL,Cosmic Hardware
-defender*,WILLIAMS,Defender Hardware,WILLIAMS,Defender Hardware
-BluePrint*,ZILEC / BALLY MIDWAY,Blue Print Hardware,ZILEC,Blue Print Hardware
-terracresta*,NICHIBUTSU,Terra Cresta Hardware,NICHIBUTSU,Terra Cresta Hardware
+tiamc1*,Terminal,TIA-MC1,Terminal,TIA-MC1
+ChampionBaseball*,Alpha Denshi,Champion Baseball Hardware,Alpha Denshi,Champion Baseball Hardware
+qbert*,Gottlieb / Mylstar,Gottlieb Video System,Gottlieb,Gottlieb Video System
+cosmic*,Universal,Cosmic Hardware,Universal,Cosmic Hardware
+defender*,Williams,Defender Hardware,Williams,Defender Hardware
+BluePrint*,Zilec / Bally Midway,Blue Print Hardware,Zilec,Blue Print Hardware
+terracresta*,Nichibutsu,Terra Cresta Hardware,Nichibutsu,Terra Cresta Hardware
 ninjakun*,UPL,Ninja-Kid Hardware,UPL,Ninja-Kid Hardware
-jttoki*,TAD / FABTEK,Toki Hardware,TAD,Toki Hardware
-galivan*,NICHIBUTSU,Galivan Hardware,NICHIBUTSU,Galivan Hardware
-jttwin16*,KONAMI,Twin 16,KONAMI,Twin 16
-expressraider*,DATA EAST,Express Raider Hardware,DATA EAST,Express Raider Hardware
-Kangaroo*,SUN ELECTRONICS,Kangaroo Hardware,SUN ELECTRONICS,Kangaroo Hardware
-hyprduel*,TECHNOS / MAGICAL,Hyper Duel Hardware,TECHNOS,Hyper Duel Hardware
+jttoki*,TAD / Fabtek,Toki Hardware,TAD,Toki Hardware
+galivan*,Nichibutsu,Galivan Hardware,Nichibutsu,Galivan Hardware
+jttwin16*,Konami,Twin 16,Konami,Twin 16
+expressraider*,Data East,Express Raider Hardware,Data East,Express Raider Hardware
+Kangaroo*,Sun Electronics,Kangaroo Hardware,Sun Electronics,Kangaroo Hardware
+hyprduel*,Technos / Magical,Hyper Duel Hardware,Technos,Hyper Duel Hardware
 IkariWarriors*,SNK,Ikari Warriors Hardware,SNK,Ikari Warriors Hardware
-naughtyboy*,JALECO,Naughty Boy Hardware,JALECO,Naughty Boy Hardware
-jtoutrun*,SEGA,OutRun Hardware,SEGA,OutRun Hardware
-jtparoda*,KONAMI,Parodius Hardware,KONAMI,Parodius Hardware
-Vastar*,ORCA,Vastar Hardware,ORCA,Vastar Hardware
-traverseusa*,IREM,M52 - Traverse USA,IREM,M52
-SpaceFirebird*,NINTENDO,Space Firebird Hardware,NINTENDO,Space Firebird Hardware
-ladybug*,UNIVERSAL,8106-A2 - 8106-B,UNIVERSAL,8106-A2 - 8106-B
-boogwing_mister*,DATA EAST,Boogie Wings Hardware,DATA EAST,Boogie Wings Hardware
-jtwc*,KONAMI,GX151 - Xexex Family,KONAMI,GX151 - Xexex Family
-polyplay*,VEB POLYTECHNIK,Poly-Play,VEB POLYTECHNIK,Poly-Play
-computerspace*,NUTTING ASSOCIATES / SYZYGY,Computer Space Hardware,NUTTING ASSOCIATES,Computer Space Hardware
-Rayforce*,TAITO,F3 System,TAITO,F3 System
-blahm1dpatreon_vunit*,MIDWAY,V Unit,MIDWAY,V Unit
-blahm1dpatreon_wargods*,MIDWAY,V Unit,MIDWAY,V Unit
-Leland*,LELAND,Leland Hardware,LELAND,Leland Hardware
-NSS_bazset*,NINTENDO,Nintendo Super System,NINTENDO,Nintendo Super System
-Ordyne*,NAMCO,System 2,NAMCO,System 2
-PrimalRage*,ATARI GAMES,Atari GT,ATARI GAMES,Atari GT
-jtwardnr*,TOAPLAN,TP-009,TOAPLAN,TP-009
-Arcade-Atari-G1_*,ATARI GAMES,G1,ATARI GAMES,G1
-Night_Striker_bazset*,TAITO,Z System,TAITO,Z System
-blahm1dpatreon_segamodel1vf_*,SEGA,Model 1,SEGA,Model 1
-segavco*,SEGA,Z80-3D System,SEGA,Z80-3D System
-jtskykid*,NAMCO,Sky Kid Hardware,NAMCO,Sky Kid Hardware
-Batman*,ATARI GAMES,Batman Hardware,ATARI GAMES,Batman Hardware
-Rampart*,ATARI GAMES,Rampart Hardware,ATARI GAMES,Rampart Hardware
-SkullXBones*,ATARI GAMES,Skull & Crossbones Hardware,ATARI GAMES,Skull & Crossbones Hardware
-f1grpr*,VIDEO SYSTEM,F-1 Grand Prix Hardware,VIDEO SYSTEM,F-1 Grand Prix Hardware
+naughtyboy*,Jaleco,Naughty Boy Hardware,Jaleco,Naughty Boy Hardware
+jtoutrun*,Sega,OutRun Hardware,Sega,OutRun Hardware
+jtparoda*,Konami,Parodius Hardware,Konami,Parodius Hardware
+Vastar*,Orca,Vastar Hardware,Orca,Vastar Hardware
+traverseusa*,Irem,M52 - Traverse USA,Irem,M52
+SpaceFirebird*,Nintendo,Space Firebird Hardware,Nintendo,Space Firebird Hardware
+ladybug*,Universal,8106-A2 - 8106-B,Universal,8106-A2 - 8106-B
+boogwing_mister*,Data East,Boogie Wings Hardware,Data East,Boogie Wings Hardware
+jtwc*,Konami,GX151 - Xexex Family,Konami,GX151 - Xexex Family
+polyplay*,VEB Polytechnik,Poly-Play,VEB Polytechnik,Poly-Play
+computerspace*,Nutting Associates / Syzygy,Computer Space Hardware,Nutting Associates,Computer Space Hardware
+Rayforce*,Taito,F3 System,Taito,F3 System
+blahm1dpatreon_vunit*,Midway,V Unit,Midway,V Unit
+blahm1dpatreon_wargods*,Midway,V Unit,Midway,V Unit
+Leland*,Leland,Leland Hardware,Leland,Leland Hardware
+NSS_bazset*,Nintendo,Nintendo Super System,Nintendo,Nintendo Super System
+Ordyne*,Namco,System 2,Namco,System 2
+PrimalRage*,Atari Games,Atari GT,Atari Games,Atari GT
+jtwardnr*,Toaplan,TP-009,Toaplan,TP-009
+Arcade-Atari-G1_*,Atari Games,G1,Atari Games,G1
+Night_Striker_bazset*,Taito,Z System,Taito,Z System
+blahm1dpatreon_segamodel1vf_*,Sega,Model 1,Sega,Model 1
+segavco*,Sega,Z80-3D System,Sega,Z80-3D System
+jtskykid*,Namco,Sky Kid Hardware,Namco,Sky Kid Hardware
+Batman*,Atari Games,Batman Hardware,Atari Games,Batman Hardware
+Rampart*,Atari Games,Rampart Hardware,Atari Games,Rampart Hardware
+SkullXBones*,Atari Games,Skull & Crossbones Hardware,Atari Games,Skull & Crossbones Hardware
+f1grpr*,Video System,F-1 Grand Prix Hardware,Video System,F-1 Grand Prix Hardware
+Victory,Exidy,Victory Hardware,Exidy,Victory Hardware
