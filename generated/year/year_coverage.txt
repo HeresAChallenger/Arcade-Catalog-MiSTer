@@ -1,9 +1,9 @@
 Arcade Catalog - auditoria de anos
 =================================
-MRAs:                     1131
-MAME exato:               1107
+MRAs:                     1146
+MAME exato:               1122
 MAME estimado (YYYY?):     1
 Fallback do MRA:           19
 Sem ano aplicavel:         3
 Ano desconhecido:          1
-Divergencias MRA x canon:  53
+Divergencias MRA x canon:  51

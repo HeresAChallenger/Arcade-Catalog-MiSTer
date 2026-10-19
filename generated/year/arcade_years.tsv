@@ -251,6 +251,7 @@ Dottori-Kun (new).mra	dotrikun	1990	year	mame	exact
 Dragon Blaze.mra	dragnblz	2000	year	mame	exact
 Dragon Breed (Japan, M72 hardware).mra	dbreedjm72	1989	year	mame	exact
 Dragon's Lair.mra	dlair	1983	year	mame	exact
+Dragon's Lair II - Time Warp.mra	dlair2	1991	year	mame	exact
 Dragon World 2001 (ver. 100, Japan).mra	dw2001	2001	year	mame	exact
 Dragon World 3 EX (ver. 100).mra	dwex	2000	year	mame	exact
 Dragon World 3 (ver. 106).mra	drgw3	1998	year	mame	exact
@@ -469,6 +470,7 @@ Ninja-Kid II.mra	ninjakd2	1987	year	mame	exact
 Ninja Baseball Bat Man (World).mra	nbbatman	1993	year	mame	exact
 Ninja Spirit (Japan).mra	nspiritj	1988	year	mame	exact
 Ninjakun.mra	ninjakun	1984	year	mame	exact
+Ninjakun Majou no Bouken.mra	ninjakun	1984	year	mame	exact
 No Mans Land.mra	nomnlnd	1980	year	mame	exact
 Nova 2001.mra	nova2001	1983	year	mame	exact
 Number Crash.mra	numcrash	1983	year	mame	exact
@@ -660,6 +662,7 @@ Super Bagman.mra	sbagman	1984	year	mame	exact
 Super Breakout (Rev 04).mra	sbrkout	1978	year	mame	exact
 Super Casino.mra	sucasino	1984	year	mame	exact
 Super Cobra.mra	scobra	1981	year	mame	exact
+Super Don Quix-ote.mra	superdq	1984	year	mame	exact
 Super Doubles Tennis (DECO).mra	csdtenis	1983	year	mame	exact
 Super Glob (Pac-Man, German) [bl].mra	sprglbpg	1984	year	mame	exact
 Super Locomotive.mra	suprloco	1982	year	mame	exact
@@ -697,6 +700,7 @@ Terranean (DECO).mra	cterrani	1981	year	mame	exact
 Tetris.mra	atetris	1988	year	mame	exact
 Tetris (Japan, System E).mra	tetrisse	1988	year	mame	exact
 Tetris The Absolute - The Grand Master 2.mra	tgm2	2000	year	mame	exact
+Thayer's Quest.mra	thayers	1984	year	mame	exact
 The Adventures of Robby Roto!.mra	robby	1981	year	mame	exact
 The Battle-Road.mra	battroad	1984	year	mame	exact
 The Bounty.mra	bounty	1982	year	mame	exact
@@ -791,11 +795,13 @@ Aero Fighters (FF, Video System, 1992).mra	aerofgt	1992	year	mame	exact
 Alligator Hunt (FF, Gaelco, 1994).mra	aligator	1994	year	mame	exact
 Altair (FF, Cidelsa, 1981).mra	altair	1981	year	mame	exact
 Altair II (FF, Cidelsa, 198x).mra	altair2		unknown	none	unknown
+Ambush (FF, Tecfri, 1983).mra	ambush	1983	year	mame	exact
 Asterix (FF ver EAD).mra	asterix	1992	year	mame	exact
 Beast Busters (FF, SNK, 1989).mra	bbusters	1989	year	mame	exact
 Big Karnak (FF, Gaelco, 1991).mra	bigkarnk	1991	year	mame	exact
 Biomechanical Toy (FF, Gaelco, 1995).mra	biomtoy	1995	year	mame	exact
 Chequered Flag (FF, Konami, 1988).mra	chqflag	1988	year	mame	exact
+Crazy Rally (FF, Tecfri, 1985).mra	crzrally	1985	year	mame	exact
 Dead Angle (FF, Seibu, 1988).mra	deadang	1988	year	mame	exact
 Destroyer (FF, Cidelsa, 1980).mra	destryer	1980	year	mame	exact
 Detana!! Twin Bee (FF, Japan ver J, Konami, 1991).mra	detatwin	1991	year	mame	exact
@@ -804,20 +810,25 @@ Empire City 1931 (FF, Seibu, 1986).mra	empcity	1986	year	mame	exact
 Glass (FF, Gaelco, 1993).mra	glassa	1994	year	mame	exact
 Guerrilla War (FF, SNK, 1987).mra	gwar	1987	year	mame	exact
 Hammer Boy (FF, Dinamic-Inder, 1990).mra	hamboy	1990	year	mame	exact
+Hole Land (FF, Tecfri, 1984).mra	holeland	1984	year	mame	exact
 Hot Chase (FF, Konami, 1988).mra	hotchase	1988	year	mame	exact
 Konami GT (FF, Konami, 1985).mra	konamigt	1985	year	mame	exact
 Martial Champion (FF ver EAB).mra	mtlchamp	1993	year	mame	exact
 Mechanized Attack (FF, SNK, 1989).mra	mechatt	1989	year	mame	exact
 Mega Phoenix (FF, Dinamic-Inder, 1991).mra	megaphx	1991	year	mame	exact
+Music Ball (FF, Tecfri, 1988).mra	musicbal	1988	year	mame	exact
 Mystic Warriors (FF ver EAA).mra	mystwarr	1993	year	mame	exact
 Operation Wolf (FF, World, rev 2, set 1).mra	opwolf	1987	year	mame	exact
 Over Drive (FF, Konami, 1990).mra	overdriv	1990	year	mame	exact
+Sauro (FF, Tecfri, 1987).mra	sauro	1987	year	mame	exact
 Shadow Force (FF, Technos, 1993).mra	shadfrce	1993	year	mame	exact
+Speed Ball (FF, Tecfri, 1987).mra	speedbal	1987	year	mame	exact
 Squash (FF, Gaelco, 1992).mra	squash	1992	year	mame	exact
 Sunset Riders (FF 2 Players ver EBD).mra	ssridersebd	1991	year	mame	exact
 Sunset Riders (FF 4 Players ver EAC).mra	ssriders	1991	year	mame	exact
 TH Strikes Back (FF, Gaelco, 1994).mra	thoop2	1994	year	mame	exact
 Thunder Hoop (FF, Gaelco, 1992).mra	thoop	1992	year	mame	exact
+Tricky Doc (FF, Tecfri, 1987).mra	trckydoc	1987	year	mame	exact
 WEC Le Mans 24 (FF, Konami, 1986).mra	wecleman	1986	year	mame	exact
 Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992).mra	moomesa	1992	year	mame	exact
 World Rally 2 (FF, Gaelco, 1995).mra	wrally2	1995	year	mame	exact
@@ -832,6 +843,7 @@ YoYo Spell (prototype) (FF, Inder, 1992).mra	yoyospel	1992	year	mame	exact
 1943 The Battle of Midway Mark II (US).mra	1943mii	1987	year	mame	exact
 1944 The Loop Master (Europe 000620).mra	1944	2000	year	mame	exact
 19XX The War Against Destiny (Europe 960104).mra	19xx	1996	year	mame	exact
+'88 Games.mra	88games	1988	year	mame	exact
 Ace Attacker (Japan, S16A) [FD1094 317-0060].mra	aceattaca	1988	year	mame	exact
 Action Fighter (World, S16A) [FD1089A 317-0018].mra	afighter	1986	year	mame	exact
 Adventure Quiz Capcom World 2 (Japan 920611).mra	cworld2j	1992	year	mame	exact
@@ -919,6 +931,7 @@ Fantasy Zone (Rev A, World, S16A) [No Protection].mra	fantzone	1986	year	mame	ex
 Fast Lane.mra	fastlane	1987	year	mame	exact
 Final Fight (World, set 1).mra	ffight	1989	year	mame	exact
 Flash Point (set 2, Japan) (FD1094 317-0127A).mra	fpoint	1989	year	mame	exact
+Flying Shark (World).mra	fshark	1987	year	mame	exact
 Forgotten Worlds (World, newer).mra	forgottn	1988	year	mame	exact
 Galaga '88.mra	galaga88	1987	year	mame	exact
 Gals Panic (unprotected, ver. 2.0).mra	galpanic	1990	year	mame	exact
@@ -1021,6 +1034,7 @@ Riot City (Japan).mra	riotcity	1991	year	mame	exact
 Road Fighter (set 1).mra	roadf	1984	year	mame	exact
 Robocop (World, revision 4).mra	robocop	1988	year	mame	exact
 Roc'n Rope.mra	rocnrope	1983	year	mame	exact
+Rollergames (US).mra	rollerg	1991	year	mame	exact
 Rolling Thunder (rev 3).mra	rthunder	1986	year	mame	exact
 Rompers (Japan, new version (Rev B)).mra	rompers	1989	year	mame	exact
 Rumba Lumber (rev 1).mra	rumba	1984	year	mame	exact
@@ -1096,6 +1110,7 @@ Track & Field.mra	trackfld	1983	year	mame	exact
 Trick Trap (World).mra	tricktrp	1987	year	mame	exact
 Trojan (US set 1).mra	trojan	1986	year	mame	exact
 Turbo Out Run (Out Run upgrade) (FD1094 317-0118).mra	toutrun	1989	year	mame	exact
+Twin Cobra (World).mra	twincobr	1987	year	mame	exact
 Twin Hawk (World).mra	twinhawk	1989	year	mame	exact
 U.N. Squadron (USA).mra	unsquad	1989	year	mame	exact
 Vampire Hunter 2 Darkstalkers Revenge (Japan 970929).mra	vhunt2	1997	year	mame	exact
