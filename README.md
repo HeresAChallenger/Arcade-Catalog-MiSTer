@@ -1,4 +1,4 @@
-# Arcade Catalog 1.2.0 para MiSTer FPGA
+# Arcade Catalog 1.2.1 para MiSTer FPGA
 
 O **Arcade Catalog** organiza automaticamente os MRAs instalados no MiSTer em árvores derivadas, sem alterar o conteúdo oficial de `_Arcade`.
 
@@ -14,14 +14,28 @@ Projeto e curadoria: **Rafael "Riris" Barbosa (@HeresAChallenger)**. Código des
 
 As árvores são derivadas. Os MRAs originais permanecem em `/media/fat/_Arcade`.
 
+## Novidade da versão 1.2.1: subpastas de `_Arcade`
+
+A versão 1.2.1 passa a investigar recursivamente `_Arcade`, portanto MRAs mantidos em subpastas também podem entrar em Empresa, Placa, Gênero e Ano.
+
+A descoberta exclui áreas especiais que não pertencem ao catálogo principal, como `_alternatives`, `cores` e árvores antigas/derivadas do próprio Arcade Catalog.
+
+Quando o mesmo nome de MRA existe em mais de um local, o catálogo escolhe um representante canônico. A prioridade é:
+
+1. MRA diretamente na raiz de `_Arcade`;
+2. MRA em subpasta menos profunda;
+3. em empate, caminho em ordem alfabética.
+
+Isso evita que coleções duplicadas em subpastas multipliquem artificialmente o catálogo.
+
 ## Instalação
 
-1. Baixe `Arcade_Catalog_1.2.0.sh`.
+1. Baixe `Arcade_Catalog_1.2.1.sh`.
 2. Copie para `/media/fat/Scripts/` no cartão/armazenamento do MiSTer.
-3. Abra **Scripts** no MiSTer e execute `Arcade_Catalog_1.2.0.sh`.
+3. Abra **Scripts** no MiSTer e execute `Arcade_Catalog_1.2.1.sh`.
 4. Escolha **Atualizar catalogo**. Na primeira instalação, a ausência dos índices locais faz o próprio script executar a reconstrução necessária.
 
-Depois disso, use **Atualizar catalogo** normalmente. O processo é incremental: itens inalterados não são recopiados.
+Quem já utiliza o 1.2.0 ou os candidatos 1.2.1 pode executar **Atualizar catalogo** normalmente. O processo continua incremental.
 
 ## Atualização online das bases
 
@@ -33,11 +47,13 @@ As bases são baixadas por HTTPS, verificadas por **SHA-256**, validadas antes d
 
 ## Por Ano
 
-A versão 1.2.0 usa uma tabela canônica por `setname` antes do fallback local. Isso impede que um valor antigo de snapshot substitua um ano canônico conhecido. Casos sem ano aplicável, como BIOS/containers multigame definidos pela política editorial, ficam fora das pastas cronológicas.
+A linha 1.2.x usa uma tabela canônica por `setname` antes do fallback local. Isso impede que um valor antigo de snapshot substitua um ano canônico conhecido. Casos sem ano aplicável, como BIOS/containers multigame definidos pela política editorial, ficam fora das pastas cronológicas.
 
 ## Desempenho incremental
 
-Na validação de referência em 17/10/2026, com **1.255 MRAs principais**, uma atualização sem alterações terminou em **6 segundos**. Esse número é apenas uma referência; tempo real varia conforme cartão, armazenamento e conjunto instalado.
+Na validação de referência do 1.2.1, uma instalação com **23.857 MRAs candidatos** distribuídos por `_Arcade` foi reduzida a **4.156 MRAs canônicos únicos** após deduplicação. Uma atualização sem alterações terminou em **48 segundos**: 33 s de varredura e 15 s de processamento.
+
+Esse número é apenas uma referência. O tempo real varia conforme cartão, armazenamento, quantidade de subpastas e conjunto instalado.
 
 ## Opções úteis
 
@@ -49,11 +65,7 @@ O Arcade Catalog não precisa apagar ou reescrever os MRAs oficiais para organiz
 
 ## Estrutura do repositório
 
-`Arcade_Catalog_1.2.0.sh` é o instalador/runtime público. A pasta `remote/` contém as bases que podem ser atualizadas sem trocar o script. A pasta `builder/` contém ferramentas de geração/auditoria das bases de anos. A pasta `tools/` contém utilitários locais de validação e geração do manifesto remoto.
-
-## Sobre a automação das bases
-
-A versão pública já suporta atualização remota independente do script. A reconstrução automática completa das bases a partir de todos os repositórios upstream depende da configuração exata de fontes do projeto; ela não é necessária para instalar ou usar o 1.2.0 e não foi substituída por URLs presumidas.
+`Arcade_Catalog_1.2.1.sh` é o instalador/runtime público. A pasta `remote/` contém as bases que podem ser atualizadas sem trocar o script. A pasta `builder/` contém ferramentas de geração/auditoria das bases de anos. A infraestrutura de automação do repositório deve ser alterada separadamente do runtime já validado.
 
 ## Créditos
 
