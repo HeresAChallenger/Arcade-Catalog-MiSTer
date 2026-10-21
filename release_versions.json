@@ -1,11 +1,11 @@
 {
-  "script_version": "1.2.0",
+  "script_version": "1.2.1",
   "database_version": "2026-10-08.2",
   "genre_database_version": "2026-10-08.2",
   "year_database_version": "2026-10-17.1",
   "validated_reference": {
-    "mras": 1255,
-    "idle_update_seconds": 6,
-    "date": "2026-10-17"
+    "mras": 4156,
+    "idle_update_seconds": 64,
+    "date": "2026-10-20"
   }
 }
