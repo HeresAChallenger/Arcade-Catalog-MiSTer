@@ -89,6 +89,7 @@ Act-Fancer Cybernetick Hyper Weapon (World revision 3).mra	actfancr	1989	year	ma
 Adventure Canoe.mra	adcanoe	1982	year	mame	exact
 After Burner II.mra	aburner2	1987	year	mame	exact
 After Burner (Ver 1.32).mra	aburner	1987	year	mame	exact
+Agent Super Bond (Super Cobra conversion, not encrypted).mra	superbona	1984	year	mame	exact
 Ah Eikou no Koshien (Japan).mra	koshien	1990	year	mame	exact
 Air Assault (World).mra	airass	1993	year	mame	exact
 Air Duel (World, M72 hardware).mra	airduelm72	1990	year	mame	exact
@@ -106,6 +107,7 @@ APB - All Points Bulletin (rev 7).mra	apb	1987	year	mame	exact
 Arabian.mra	arabian	1983	year	mame	exact
 Ark Area.mra	arkarea	1988	year	mame	exact
 Arkanoid (W).mra	arkanoid	1986	year	mame	exact
+Armor Attack.mra	armora	1980	year	mame	exact
 Armored Car.mra	armorcar	1981	year	mame	exact
 ASO.mra	aso	1985	year	mame	exact
 Asteroids.mra	asteroid	1979	year	mame	exact
@@ -128,6 +130,7 @@ Baku Baku Animal (J 950407 V1.000).mra	bakubaku	1995	year	mame	exact
 Balloon Bomber.mra	ballbomb	1980	year	mame	exact
 Baluba-louk no Densetsu (Japan).mra	baluba	1986	year	mame	exact
 BankPanic.mra	bankp	1984	year	mame	exact
+Barrier.mra	barrier	1979	year	mame	exact
 Batman.mra	batman	1991	year	mame	exact
 Batman Forever (JUE 960507 V1.000).mra	batmanfr	1996	year	mame	exact
 Battle K-Road.mra	btlkroad	1994	year	mame	exact
@@ -333,6 +336,7 @@ Gunbarich.mra	gnbarich	2001	year	mame	exact
 Gunbird 2 (set 1).mra	gunbird2	1998	year	mame	exact
 Gunbird (World).mra	gunbird	1994	year	mame	exact
 Gunforce - Battle Fire Engulfed Terror Island (World).mra	gunforce	1991	year	mame	exact
+Guts n' Glory (prototype).mra	guts	1989	year	mame	exact
 Guwange (Japan, 1999 6-24 Master Ver 16-55).mra	guwange	1999	year	mame	exact
 Gyakuten!! Puzzle Bancho (Japan, set 1).mra	pbancho	1996	year	mame	exact
 Gyrodine.mra	gyrodine	1984	year	mame	exact
@@ -470,7 +474,7 @@ Ninja-Kid II.mra	ninjakd2	1987	year	mame	exact
 Ninja Baseball Bat Man (World).mra	nbbatman	1993	year	mame	exact
 Ninja Spirit (Japan).mra	nspiritj	1988	year	mame	exact
 Ninjakun.mra	ninjakun	1984	year	mame	exact
-Ninjakun Majou no Bouken.mra	ninjakun	1984	year	mame	exact
+Ninjakun Majou No Bouken.mra	ninjakun	1984	year	mame	exact
 No Mans Land.mra	nomnlnd	1980	year	mame	exact
 Nova 2001.mra	nova2001	1983	year	mame	exact
 Number Crash.mra	numcrash	1983	year	mame	exact
@@ -567,6 +571,7 @@ Repulse.mra	repulse	1985	year	mame	exact
 Rescue.mra	rescue	1982	year	mame	exact
 Riddle of Pythagoras (Japan).mra	ridleofp	1986	year	mame	exact
 Ring King (US set 1).mra	ringking	1985	year	mame	exact
+Rip Off.mra	ripoff	1980	year	mame	exact
 Risky Challenge.mra	riskchal	1993	year	mame	exact
 River Patrol (JP, Unprotected).mra	rpatroln	1981	year	mame	exact
 Road Blasters (upright, rev 4).mra	roadblst	1987	year	mame	exact
@@ -631,6 +636,7 @@ Space Invaders Part II (Taito, Bigger ROMs).mra	invadpt2	1979	year	mame	exact
 Space Panic.mra	panic	1980	year	mame	exact
 Space Race [TTL].mra	spacerace	1973	year	mra-fallback	fallback
 Space Seeker.mra	spaceskr	1981	year	mame	exact
+Space Wars.mra	spacewar	1977	year	mame	exact
 Space Zap.mra	spacezap	1980	year	mame	exact
 Spatter (315-5xxx).mra	spatter	1984	year	mame	exact
 Spectar.mra	spectar	1980	year	mame	exact
@@ -643,6 +649,7 @@ Sprint 2.mra	sprint2	1976	year	mame	exact
 Spy Hunter.mra	spyhunt	1983	year	mame	exact
 Squash.mra	squaitsa	1984	year	mame	exact
 SRD Mission.mra	srdmissn	1986	year	mame	exact
+Star Castle.mra	starcas	1980	year	mame	exact
 Star Force.mra	starforc	1984	year	mame	exact
 Star Guards.mra	stargrds	1987	year	mame	exact
 Star Jacker.mra	starjack	1983	year	mame	exact
@@ -650,6 +657,7 @@ Star Soldier - Vanishing Earth.mra	starsldr	1998	year	mame	exact
 Star Trek.mra	startrek	1982	year	mame	exact
 Star Wars (Rev 2).mra	starwars	1983	year	mame	exact
 Stargate.mra	stargate	1981	year	mame	exact
+Starhawk.mra	starhawk	1979	year	mame	exact
 Steep Slope Sliders (JUET 981110 V1.000).mra	sss	1998	year	mame	exact
 Strategy X.mra	stratgyx	1981	year	mame	exact
 Strikers 1945 II.mra	s1945ii	1997	year	mame	exact
@@ -769,6 +777,8 @@ Vivid Dolls.mra	vivdolls	1998	year	mame	exact
 Vortex.mra	vortex	1980	year	mame	exact
 Wacko.mra	wacko	1982	year	mame	exact
 War of the Bugs.mra	warofbug	1981	year	mame	exact
+War of the Worlds.mra	wotw	1981	year	mame	exact
+Warrior.mra	warrior	1979	year	mame	exact
 Warrior Blade (Japan).mra	warriorb	1991	year	mame	exact
 Water Match (315-5064).mra	wmatch	1984	year	mame	exact
 Water Ski.mra	waterski	1983	year	mame	exact
@@ -781,6 +791,7 @@ X Multiply (Japan, M72 hardware).mra	xmultiplm72	1989	year	mame	exact
 Xain'd Sleena (bootleg, bugfixed).mra	xsleenaba	1987	year	mame	exact
 Xevious.mra	xevious	1982	year	mame	exact
 Xiyou Shi E Zhuan Super (ver. 103, China, Tencent) (unprotected).mra	olds103t	1998	year	mame	exact
+XX Mission.mra	xxmissio	1986	year	mame	exact
 Xybots.mra	xybots	1987	year	mame	exact
 Youjyuden (JP).mra	youjyudn	1986	year	mame	exact
 Zaxxon (Set 1, Rev D).mra	zaxxon	1982	year	mame	exact
