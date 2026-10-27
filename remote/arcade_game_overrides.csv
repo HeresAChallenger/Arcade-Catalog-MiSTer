@@ -1,285 +1,510 @@
 setname,game_company,company_board_label,board_company,board
-espgal,Cave,IGS PGM - CAVE,IGS,PGM
-ket,Cave,IGS PGM - CAVE,IGS,PGM
-ddpdoj,Cave,IGS PGM - CAVE,IGS,PGM
-vasara,Visco,SSV,Seta - Sammy - Visco,SSV
-vasara2,Visco,SSV,Seta - Sammy - Visco,SSV
-ultrax,Sammy,SSV,Seta - Sammy - Visco,SSV
-stmblade,Visco,SSV,Seta - Sammy - Visco,SSV
-twineag2,Seta,SSV,Seta - Sammy - Visco,SSV
-dynagear,Sammy,SSV,Seta - Sammy - Visco,SSV
-drifto94,Visco,SSV,Seta - Sammy - Visco,SSV
-cairblad,Sammy,SSV,Seta - Sammy - Visco,SSV
+11beat,Hudson Soft,Aleck 64,Seta,Aleck 64
 280zzzap,Midway,8080 Black-and-White Hardware,Midway,8080 Black-and-White Hardware
-maze,Midway,8080 Black-and-White Hardware,Midway,8080 Black-and-White Hardware
-attackfc,Electro Sport,8080 Black-and-White Hardware,Electro Sport,8080 Black-and-White Hardware
-ballbomb,Taito,8080 Black-and-White Hardware,Taito,8080 Black-and-White Hardware
-airwolf,Kyugo,Kyugo Hardware,Kyugo,Kyugo Hardware
-ts2u,Takara / Capcom,Sony ZN-1,Sony,ZN-1
-ddp3,Cave,IGS PGM - CAVE,IGS,PGM
-flashgal,Kyugo / Sega,Kyugo Hardware,Kyugo,Kyugo Hardware
-gyrodine,Crux,Kyugo Hardware,Kyugo,Kyugo Hardware
-legend,Kyugo / Sega,Kyugo Hardware,Kyugo,Kyugo Hardware
-repulse,Crux / Sega,Kyugo Hardware,Kyugo,Kyugo Hardware
-srdmissn,Kyugo / Taito,Kyugo Hardware,Kyugo,Kyugo Hardware
-blueshrk,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-boothill,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-clowns,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-cosmo,TDS / Universal,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-galxwars,Universal,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-gunfight,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-lagunar,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-lrescue,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-lupin3a,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-polaris,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-seawolf,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-shuffle,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-schaser,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-spcenctr,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-invaders,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-invadpt2,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-vortex,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
-glpracr,Tecmo,Sony ZN-1,Sony,ZN-1
-starglad,Capcom,Sony ZN-1,Sony,ZN-1
-sfexpu1,Arika / Capcom,Sony ZN-1,Sony,ZN-1
-sfexu,Arika / Capcom,Sony ZN-1,Sony,ZN-1
-alibaba,Sega / Ikegami,Pac-Man-derived Hardware,Namco,Pac-Man Hardware
-eyes,Digital Controls,Pac-Man-derived Hardware,Namco,Pac-Man Hardware
-piranha,GL,Pac-Man-derived Hardware,Namco,Pac-Man Hardware
-woodpek,Amstar,Pac-Man-derived Hardware,Namco,Pac-Man Hardware
-azurian,Rait Electronic,Galaxian-derived Hardware,Namco,Galaxian Hardware
-checkman,Zilec / JALeco,Galaxian-derived Hardware,Namco,Galaxian Hardware
-kingball,Namco,Galaxian Hardware,Namco,Galaxian Hardware
+88games,Konami,'88 Games Hardware,Konami,'88 Games Hardware
 actfancr,Data East,Act-Fancer Hardware,Data East,Act-Fancer Hardware
+actionhw,TCH - Proyesel,PRO-3/B,TCH,PRO-3/B
+agallet,Gazelle - Banpresto,CAVE 1st Generation Hardware,Cave,1st Generation Hardware
+agalletj,Gazelle - Banpresto,CAVE 1st Generation Hardware,Cave,1st Generation Hardware
+airduelm72,Irem,M72,Irem,M72
+airwolf,Kyugo,Kyugo Hardware,Kyugo,Kyugo Hardware
+alibaba,Sega / Ikegami,Pac-Man-derived Hardware,Namco,Pac-Man Hardware
+aligator,Gaelco,GAE1,Gaelco,GAE1
+altair,Cidelsa,Video System-1,Cidelsa,Video System-1
+altair2,Cidelsa,Video System-1,Cidelsa,Video System-1
+ambush,Tecfri,Ambush Hardware,Tecfri,Ambush Hardware
+appoooh,Sanritsu - Sega,Appoooh Hardware,Sanritsu,Appoooh Hardware
+aquajack,Taito,Z System,Taito,Z System
+arbalest,Jordan I.S. - Seta,DownTown Hardware,Seta,DownTown Hardware
+argus,NMK - Jaleco,Argus Hardware,Jaleco - NMK,Argus Hardware
+arkarea,UPL,UPL-87007,UPL,UPL-87007
+armora,Cinematronics,CCPU Vector Hardware,Cinematronics,CCPU Vector Hardware
+assault,Namco,System 2,Namco,System 2
+asterix,Konami,Asterix Hardware,Konami,Asterix Hardware
+astrass,Sunsoft,ST-V,Sega,ST-V
+asurabld,Fuuki,FG-3,Fuuki,FG-3
+asurabus,Fuuki,FG-3,Fuuki,FG-3
+atetris,Atari,Atari Tetris Hardware,Atari,Atari Tetris Hardware
+attackfc,Electro Sport,8080 Black-and-White Hardware,Electro Sport,8080 Black-and-White Hardware
+azurian,Rait Electronic,Galaxian-derived Hardware,Namco,Galaxian Hardware
+ballbomb,Taito,8080 Black-and-White Hardware,Taito,8080 Black-and-White Hardware
+banbam,Sun Electronics,Markham - Strength & Skill Hardware,Sun Electronics,Markham - Strength & Skill Hardware
+barrier,Cinematronics - Vectorbeam,CCPU Vector Hardware,Cinematronics,CCPU Vector Hardware
+baryon,SemiCom - Tirano,Dream World Hardware,SemiCom,Dream World Hardware
+batmanfr,Acclaim,ST-V,Sega,ST-V
+bballs,Comad,Pushman - Bouncing Balls Hardware,Comad,Pushman - Bouncing Balls Hardware
+bbusters,SNK,Beast Busters Hardware,SNK,Beast Busters Hardware
+bcstry,SemiCom - Tirano,Tumble Pop-derived Hardware,Various,Tumble Pop-derived Hardware
+bestbest,SunA,SunA 16-bit,SunA,SunA 16-bit
+bigkarnk,Gaelco,GAE1,Gaelco,GAE1
+biomtoy,Gaelco,GAE1,Gaelco,GAE1
+birdtry,Data East,DECO 16-bit - DEC0,Data East,DECO 16-bit - DEC0
+blkpnthr,Konami,GX400 - Nemesis-derived Hardware,Konami,GX400 - Nemesis-derived Hardware
 blockout,Technos / California Dreams,Block Out Hardware,Technos,Block Out Hardware
+bloodwar,Kaneko,Kaneko 16-bit,Kaneko,Kaneko 16-bit
+blueshrk,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+bnzabros,Sega,System 24,Sega,System 24
+bonkadv,Kaneko - Hudson Soft - Red,Kaneko 16-bit,Kaneko,Kaneko 16-bit
 boogwing,Data East,Boogie Wings Hardware,Data East,Boogie Wings Hardware
+boomrang,Data East,Liberation - Genesis Hardware,Data East,Liberation - Genesis Hardware
+boothill,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+brapboys,Kaneko,Kaneko 16-bit,Kaneko,Kaneko 16-bit
 breakout,Atari,Breakout TTL,Atari,Breakout TTL
+brickzn,SunA,SunA 8-bit,SunA,SunA 8-bit
 brubber,Data East,DECO Cassette System,Data East,DECO Cassette System
+bssoccer,SunA - Unico,SunA 16-bit,SunA,SunA 16-bit
+btoads,Rare - Electronic Arts,Battletoads Hardware,Rare,Battletoads Hardware
+bubbletr,Namco,System 2,Namco,System 2
+burnforc,Namco,System 2,Namco,System 2
+butasan,NMK - Jaleco,Argus Hardware,Jaleco - NMK,Argus Hardware
+bwings,Data East,B-Wings Hardware,Data East,B-Wings Hardware
+cairblad,Sammy,SSV,Seta - Sammy - Visco,SSV
 calibr50,Seta,Seta 1st Generation,Seta,Seta 1st Generation
 canyon,Atari,Canyon Bomber TTL,Atari,Canyon Bomber TTL
 captavenu,Data East,DECO IC16,Data East,DECO IC16
-cninja,Data East,DECO IC16,Data East,DECO IC16
+cbuster,Data East,DECO IC16,Data East,DECO IC16
+ccastles,Atari,Crystal Castles Hardware,Atari,Crystal Castles Hardware
+cclimber,Nichibutsu,Crazy Climber Hardware,Nichibutsu,Crazy Climber Hardware
 centiped,Atari,Centipede Hardware,Atari,Centipede Hardware
+chainrec,Data East,Simple 156,Data East,Simple 156
 chameleo,Jaleco / Donga-Seiko,Chameleon Hardware,Jaleco,Chameleon Hardware
+chaoshea,Taito,G-NET,Taito,G-NET
+charlien,Mitchell,Simple 156,Data East,Simple 156
+chasehq,Taito,Z System,Taito,Z System
+checkman,Zilec / JALeco,Galaxian-derived Hardware,Namco,Galaxian Hardware
 chinagat,Technos,China Gate Hardware,Technos,China Gate Hardware
+chokchok,SemiCom,Tumble Pop-derived Hardware,Various,Tumble Pop-derived Hardware
+chopliftu,Sega,System 1,Sega,System 1
+chqflag,Konami,GX717 - Chequered Flag Hardware,Konami,GX717 - Chequered Flag Hardware
 circusc,Konami,Circus Charlie Hardware,Konami,Circus Charlie Hardware
 citycon,Jaleco,City Connection Hardware,Jaleco,City Connection Hardware
+ckong,Falcon,Crazy Kong Hardware,Falcon,Crazy Kong Hardware
+ckongpt2,Falcon,Crazy Kong Hardware,Falcon,Crazy Kong Hardware
 cliffhgr,Stern,Laserdisc - Cliff Hanger,Stern,Laserdisc Hardware
+clowns,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+cninja,Data East,DECO IC16,Data East,DECO IC16
 cobracom,Data East,Cobra-Command Hardware,Data East,Cobra-Command Hardware
 combatsc,Konami,Combat School Hardware,Konami,Combat School Hardware
 congo,Sega,Congo Bongo Hardware,Sega,Congo Bongo Hardware
+contcirc,Taito,Z System,Taito,Z System
 contra,Konami,GX633 - Contra Hardware,Konami,GX633 - Contra Hardware
+cookbib,SemiCom,Tumble Pop-derived Hardware,Various,Tumble Pop-derived Hardware
+cosmo,TDS / Universal,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+cosmogng,Namco,System 2,Namco,System 2
+cotton2,Success,ST-V,Sega,ST-V
+cottonbm,Success,ST-V,Sega,ST-V
 crbaloon,Taito,Crazy Balloon Hardware,Taito,Crazy Balloon Hardware
-cclimber,Nichibutsu,Crazy Climber Hardware,Nichibutsu,Crazy Climber Hardware
-ckong,Falcon,Crazy Kong Hardware,Falcon,Crazy Kong Hardware
-ckongpt2,Falcon,Crazy Kong Hardware,Falcon,Crazy Kong Hardware
-cbuster,Data East,DECO IC16,Data East,DECO IC16
-ccastles,Atari,Crystal Castles Hardware,Atari,Crystal Castles Hardware
+crkdown,Sega,System 24,Sega,System 24
+crysking,BrezzaSoft,Crystal System,BrezzaSoft,Crystal System
+crzrally,Tecfri,Hole Land - Crazy Rally Hardware,Tecfri,Hole Land - Crazy Rally Hardware
+csilver,Data East,DECO 8-bit,Data East,DECO 8-bit
+cutefght,SemiCom,Dream World Hardware,SemiCom,Dream World Hardware
+daraku,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+darkmist,Seibu Kaihatsu - Taito,Darkmist Hardware,Seibu Kaihatsu,Darkmist Hardware
 darkseal,Data East,DECO IC16,Data East,DECO IC16
+daytona,Sega,Model 2,Sega,Model 2
+dblewingb,Technos / Mitchell,Double Wings Hardware,Technos,Double Wings Hardware
+dbreedjm72,Irem,M72,Irem,M72
 dcon,Success / Seibu Kaihatsu,Seibu D-Con Hardware,Seibu Kaihatsu,D-Con Hardware
+ddp3,Cave,IGS PGM - CAVE,IGS,PGM
+ddpdoj,Cave,IGS PGM - CAVE,IGS,PGM
+deadang,Seibu Kaihatsu,Dead Angle Hardware,Seibu Kaihatsu,Dead Angle Hardware
 denjinmk,Banpresto / Winky Soft,Denjin Makai Hardware,Banpresto,Denjin Makai Hardware
+desert,Sega - Martin Marietta,Model 2,Sega,Model 2
+destryer,Cidelsa,Video System-1,Cidelsa,Video System-1
+detatwin,Konami,GX060 - Detana!! TwinBee Hardware,Konami,GX060 - Detana!! TwinBee Hardware
+devstors,Konami,PWB 351024A,Konami,PWB 351024A
 dietgo,Data East,DECO IC16,Data East,DECO IC16
+dirtfoxj,Namco,System 2,Namco,System 2
+dlair,Cinematronics / Advanced Microcomputer Systems,Laserdisc - Dragon’s Lair,Cinematronics,Laserdisc Hardware
+dlair2,Leland,Dragon’s Lair II Laserdisc,Leland - Cinematronics,Dragon’s Lair II Laserdisc
+doaab,Tecmo,Model 2A,Sega,Model 2A
 dominos,Atari,Dominos TTL,Atari,Dominos TTL
 dotrikun,Sega,System 16 Test Hardware,Sega,System 16
-dblewingb,Technos / Mitchell,Double Wings Hardware,Technos,Double Wings Hardware
-dlair,Cinematronics / Advanced Microcomputer Systems,Laserdisc - Dragon’s Lair,Cinematronics,Laserdisc Hardware
-eprom,Atari,System 1,Atari,System 1
+draco,Cidelsa,Video System-1,Cidelsa,Video System-1
+dragnblz,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+dreamwld,SemiCom,Dream World Hardware,SemiCom,Dream World Hardware
+drifto94,Visco,SSV,Seta - Sammy - Visco,SSV
+drmicro,Sanritsu,Dr. Micro Hardware,Sanritsu,Dr. Micro Hardware
+dsaber,Namco,System 2,Namco,System 2
+dynagear,Sammy,SSV,Seta - Sammy - Visco,SSV
+dynamcop,Sega,Model 2A,Sega,Model 2A
+edrandy,Data East,DECO IC16,Data East,DECO IC16
+empcity,Seibu Kaihatsu,Empire City Hardware,Seibu Kaihatsu,Empire City Hardware
+eprom,Atari Games,Escape Hardware,Atari Games,Escape Hardware
+espgal,Cave,IGS PGM - CAVE,IGS,PGM
 exeriont,Jaleco / Taito,Exerion Hardware,Jaleco,Exerion Hardware
+exterm,Premier,Exterminator Hardware,Gottlieb - Premier,Exterminator Hardware
+eyes,Digital Controls,Pac-Man-derived Hardware,Namco,Pac-Man Hardware
+fantasia,Comad - New Japan System,EXPRO-02-derived Hardware,Kaneko,EXPRO-02-derived Hardware
 fastlane,Konami,GX752 - Fast Lane Hardware,Konami,GX752 - Fast Lane Hardware
+ffreveng,Capcom / Sega,ST-V,Sega,ST-V
+finalap2,Namco,System 2,Namco,System 2
+finalap3,Namco,System 2,Namco,System 2
+finalapr,Namco,System FL,Namco,System FL
+finallap,Namco,System 2,Namco,System 2
+finehour,Namco,System 2,Namco,System 2
+flashgal,Kyugo / Sega,Kyugo Hardware,Kyugo,Kyugo Hardware
+flipmaze,MOSS - Taito,G-NET,Taito,G-NET
+fncywld,Unico,Tumble Pop-derived Hardware,Various,Tumble Pop-derived Hardware
 foodf,Atari,Food Fight Hardware,Atari,Food Fight Hardware
+fourtrax,Namco,System 2,Namco,System 2
 freeze,Cinematronics,Freeze Hardware,Cinematronics,Freeze Hardware
 frenzy,Stern,Berzerk - Frenzy Hardware,Stern,Berzerk - Frenzy Hardware
+fround,Konami,GX870 - The Final Round Hardware,Konami,GX870 - The Final Round Hardware
+fshark,Toaplan - Taito,Toaplan V1,Toaplan,Toaplan V1
+funkyjetb,Bootleg,Tumble Pop-derived Hardware,Various,Tumble Pop-derived Hardware
+gaialast,SemiCom - XESS,Dream World Hardware,SemiCom,Dream World Hardware
+gallopm72,Irem,M72,Irem,M72
 galpanic,Kaneko,Kaneko 16,Kaneko,Kaneko 16
+galxwars,Universal,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+gamshara,Mitchell,System 10,Namco,System 10
+garyoret,Data East,DECO 8-bit,Data East,DECO 8-bit
+gground,Sega,System 24,Sega,System 24
+ghostb,Data East,DECO 8-bit - 16-bit,Data East,DECO 8-bit - 16-bit
+gladiatr,Allumer - Taito,Gladiator Hardware,Taito,Gladiator Hardware
+glassa,Gaelco,Glass Hardware,Gaelco,Glass Hardware
+glpracr,Tecmo,Sony ZN-1,Sony,ZN-1
+gnbarich,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+gobyrc,Taito,G-NET,Taito,G-NET
 godzilla,Banpresto,Godzilla Hardware,Banpresto,Godzilla Hardware
+gogomile,Fuuki,FG-2,Fuuki,FG-2
+gollygho,Namco,System 2,Namco,System 2
+gondo,Data East,DECO 8-bit,Data East,DECO 8-bit
+grainbow,Banpresto,SD Gundam Rainbow Hardware,Banpresto,SD Gundam Rainbow Hardware
+grdforce,Success,ST-V,Sega,ST-V
 grdians,Banpresto / Winky Soft,Denjin Makai Hardware,Banpresto,Denjin Makai Hardware
+groovef,Atlus,ST-V,Sega,ST-V
+gstream,Oriental Soft Japan,G-Stream G2020 Hardware,Oriental Soft,G-Stream G2020 Hardware
+gtmr,Kaneko,Kaneko 16-bit,Kaneko,Kaneko 16-bit
+gtmr2a,Kaneko,Kaneko 16-bit,Kaneko,Kaneko 16-bit
 gulfwar2,Comad,Gulf War II Hardware,Comad,Gulf War II Hardware
+gunbird2,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+gunfight,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+guts,Atari Games,Escape Hardware,Atari Games,Escape Hardware
+gwar,SNK,Triple Z80 Hardware,SNK,Triple Z80 Hardware
+gyrodine,Crux,Kyugo Hardware,Kyugo,Kyugo Hardware
+hamboy,Dinamic / Inder,Mega Phoenix Hardware,Inder,Mega Phoenix Hardware
+hardhea2,SunA,SunA 8-bit,SunA,SunA 8-bit
+hardhead,SunA,SunA 8-bit,SunA,SunA 8-bit
 hcastle,Konami,GX768 - Haunted Castle Hardware,Konami,GX768 - Haunted Castle Hardware
 heatbrl,Seta,Seta 1st Generation,Seta,Seta 1st Generation
+helifire,Nintendo,Nintendo 8080 Hardware,Nintendo,Nintendo 8080 Hardware
+hgkairak,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+hharryu,Irem,M84,Irem,M84
+highsplt,Nintendo,Nintendo 8080 Hardware,Nintendo,Nintendo 8080 Hardware
+holeland,Tecfri,Hole Land - Crazy Rally Hardware,Tecfri,Hole Land - Crazy Rally Hardware
+hotchase,Konami,GX763 - Hot Chase Hardware,Konami,GX763 - Hot Chase Hardware
+hotdebut,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+hotgm4ev,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+hotgmck,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+hotgmck3,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+hotgmcki,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+hpyagu98,Deniam,Model 2A,Sega,Model 2A
+hvysmsh,Data East,Simple 156,Data East,Simple 156
+hvyunit,Kaneko - Taito,Heavy Unit Hardware,Kaneko,Heavy Unit Hardware
+ikki,Sun Electronics,Ikki Hardware,Sun Electronics,Ikki Hardware
+imgfight,Irem,M72,Irem,M72
 inferno,Williams,Williams 6809 Hardware,Williams,Williams 6809 Hardware
+invad2ct,Midway,8080 Black-and-White Hardware,Midway,8080 Black-and-White Hardware
+invaders,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+invadpt2,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
 invasnab,Midway,Midway Zeus,Midway,Zeus
+irobot,Atari,"I, Robot Hardware",Atari,"I, Robot Hardware"
 jack,Cinematronics,Jack the Giantkiller Hardware,Cinematronics,Jack Hardware
+jackrabt,Zaccaria,Zaccaria Hardware,Zaccaria,Zaccaria Hardware
+jdreddp,Midway,T Unit,Midway,T Unit
+joemacr,Data East,Simple 156,Data East,Simple 156
 joust2,Williams,Williams 6809 Hardware,Williams,Williams 6809 Hardware
+jumpkids,Comad,Tumble Pop-derived Hardware,Various,Tumble Pop-derived Hardware
 junofrst,Konami,Juno First Hardware,Konami,Juno First Hardware
+jzth,Unknown,Y-Box - Mega Drive-derived Hardware,Yuvo,Y-Box - Mega Drive-derived Hardware
+ket,Cave,IGS PGM - CAVE,IGS,PGM
 kicknrun,Taito,Kick and Run Hardware,Taito,Kick and Run Hardware
+kikcubic,Irem,M75,Irem,M75
 kikikai,Taito,Kiki KaiKai Hardware,Taito,Kiki KaiKai Hardware
+kingball,Namco,Galaxian Hardware,Namco,Galaxian Hardware
 klax,Atari,Atari System 1-derived,Atari,Klax Hardware
+kollon,CyberFront,G-NET,Taito,G-NET
+konamigt,Konami,GX400 - Konami GT Hardware,Konami,GX400 - Konami GT Hardware
+krull,Gottlieb,Gottlieb Video System,Gottlieb,Gottlieb Video System
+kyros,Alpha Denshi - World Games,Alpha 68K N,Alpha Denshi,Alpha 68K N
+kyukaidk,Namco,System 2,Namco,System 2
+lagunar,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+lastmisn,Data East,DECO 8-bit,Data East,DECO 8-bit
+legend,Kyugo / Sega,Kyugo Hardware,Kyugo,Kyugo Hardware
 legionna,Taito / TAD,Legionnaire Hardware,Seibu Kaihatsu,Legionnaire Hardware
+liberate,Data East,Liberation - Genesis Hardware,Data East,Liberation - Genesis Hardware
+lkagebl1,Taito,The Legend of Kage Hardware,Taito,The Legend of Kage Hardware
+loderndf,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+lohtj,Irem,M72,Irem,M72
+lrescue,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+luckywld,Namco,System 2,Namco,System 2
+lupin3a,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+magipur,Unico,Tumble Pop-derived Hardware,Various,Tumble Pop-derived Hardware
+mahjngoh,Warashi - Mahjong Kobo - Taito,G-NET,Taito,G-NET
+mainevt,Konami,PWB 351024A,Konami,PWB 351024A
 maniach,Technos,Mat Mania Hardware,Technos,Mat Mania Hardware
+manxtt,Sega,Model 2A,Sega,Model 2A
 marblmd2,Atari,System 1,Atari,System 1
+markham,Sun Electronics,Markham - Strength & Skill Hardware,Sun Electronics,Markham - Strength & Skill Hardware
+marvland,Namco,System 2,Namco,System 2
 matmania,Technos,Mat Mania Hardware,Technos,Mat Mania Hardware
+maze,Midway,8080 Black-and-White Hardware,Midway,8080 Black-and-White Hardware
 mazingerj,Banpresto,NMK16,NMK,NMK16
+mechatt,SNK,Mechanized Attack Hardware,SNK,Mechanized Attack Hardware
+megaphx,Dinamic / Inder,Mega Phoenix Hardware,Inder,Mega Phoenix Hardware
 meikyuh,Data East,Karnov Hardware,Data East,Karnov Hardware
+metafox,Jordan I.S. - Seta,DownTown Hardware,Seta,DownTown Hardware
+metamrph,Konami,Mystic Warriors Hardware,Konami,Mystic Warriors Hardware
+metlhawk,Namco,System 2,Namco,System 2
+metlsavr,First Amusement,Tumble Pop-derived Hardware,Various,Tumble Pop-derived Hardware
+mirninja,Namco,System 2,Namco,System 2
 missile,Atari,Missile Command Hardware,Atari,Missile Command Hardware
-mpatrol,Irem,M52,Irem,M52
+missmw96,Comad,EXPRO-02-derived Hardware,Kaneko,EXPRO-02-derived Hardware
+mjgtaste,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+mk1wolf_umk3,Midway,Y Unit,Midway,Y Unit
+mk2wolf_umk3,Midway,T Unit,Midway,T Unit
 mk4,Midway,Midway Zeus,Midway,Zeus
+mnight,UPL,UPL-87007,UPL,UPL-87007
+monymony,Zaccaria,Zaccaria Hardware,Zaccaria,Zaccaria Hardware
+moomesa,Konami,Mystic Warriors Hardware,Konami,Mystic Warriors Hardware
+mortalr,New Dream Games,Steel Force Hardware,Electronic Devices,Steel Force Hardware
+motoraid,Sega,Model 2A,Sega,Model 2A
+mpatrol,Irem,M52,Irem,M52
 mrdo,Universal,Mr. Do! Hardware,Universal,Mr. Do! Hardware
+mrdrilr2,Namco,System 10,Namco,System 10
+mrdrilrg,Namco,System 10,Namco,System 10
+mrheli,Irem,M72,Irem,M72
 mrjong,Kawai,Mr. Jong Hardware,Kawai,Mr. Jong Hardware
+mtetrisc,Capcom,Aleck 64,Seta,Aleck 64
+mtlchamp,Konami,Mystic Warriors Hardware,Konami,Mystic Warriors Hardware
+musicbal,Tecfri - Desystem,Speed Ball Hardware,Tecfri,Speed Ball Hardware
 mutantf,Data East,DECO IC16,Data East,DECO IC16
 mx5000,Konami,GX669 - MX5000 Hardware,Konami,GX669 - MX5000 Hardware
 mysticm,Williams,Williams 6809 Hardware,Williams,Williams 6809 Hardware
+mystston,Technos Japan,Mysterious Stones Hardware,Technos,Mysterious Stones Hardware
+mystwarr,Konami,Mystic Warriors Hardware,Konami,Mystic Warriors Hardware
 nbahangt,Midway,Wolf Unit,Midway,Wolf Unit
+nbajam,Midway,T Unit,Midway,T Unit
+nbajamte,Midway,T Unit,Midway,T Unit
+ncv1,Namco,ND-1,Namco,ND-1
+ncv2,Namco,ND-1,Namco,ND-1
+newfant,Comad - New Japan System,EXPRO-02-derived Hardware,Kaneko,EXPRO-02-derived Hardware
 ngp,SNK,Neo Geo Pocket,SNK,Neo Geo Pocket
-nslasher,Data East,DECO IC16,Data East,DECO IC16
+nightrai,Takumi,G-NET,Taito,G-NET
+ninjakd2,UPL,UPL-87003,UPL,UPL-87003
 nitrobal,Data East,DECO IC16,Data East,DECO IC16
+nslasher,Data East,DECO IC16,Data East,DECO IC16
+nspiritj,Irem,M72,Irem,M72
+omegaf,UPL,UPL-89016,UPL,UPL-89016
+opwolf,Taito,Rastan Hardware,Taito,Rastan Hardware
+ordyne,Namco,System 2,Namco,System 2
+oscar,Data East,DECO 8-bit - 16-bit,Data East,DECO 8-bit - 16-bit
+osman,Mitchell,Simple 156,Data East,Simple 156
+otenamhf,Success - Warashi,G-NET,Taito,G-NET
+otenamih,Success,G-NET,Taito,G-NET
+otenki,Takumi,G-NET,Taito,G-NET
+overdriv,Konami,GX789 - Over Drive Hardware,Konami,GX789 - Over Drive Hardware
 pacland,Namco,Pac-Land Hardware,Namco,Pac-Land Hardware
 paddlema,SNK,ALPHA68K-96-I,SNK,ALPHA68K-96-I
-pkunwar,UPL,Penguin-Kun Wars Hardware,UPL,Penguin-Kun Wars Hardware
-perfrman,Toaplan,Performan Hardware,Toaplan,Performan Hardware
+pangpang,Dong Gue La Mi Ltd.,Tumble Pop-derived Hardware,Various,Tumble Pop-derived Hardware
 pbaction,Tehkan,Pinball Action Hardware,Tehkan,Pinball Action Hardware
+pbancho,Fuuki,FG-2,Fuuki,FG-2
+penbros,Subsino,Seta 2,Seta,Seta 2
+perfrman,Toaplan,Performan Hardware,Toaplan,Performan Hardware
+pgalvip,ACE International - Afega,EXPRO-02-derived Hardware,Kaneko,EXPRO-02-derived Hardware
+phelios,Namco,System 2,Namco,System 2
+piranha,GL,Pac-Man-derived Hardware,Namco,Pac-Man Hardware
+pkunwar,UPL,Penguin-Kun Wars Hardware,UPL,Penguin-Kun Wars Hardware
+pltkidsa,Psikyo,Model 2A,Sega,Model 2A
+polaris,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
 pong,Atari,Pong TTL,Atari,Pong TTL
 prehisle,SNK,Prehistoric Isle Hardware,SNK,Prehistoric Isle Hardware
+prikura,Atlus,ST-V,Sega,ST-V
 prmrsocr,Konami,GX101 - Premier Soccer Hardware,Konami,GX101 - Premier Soccer Hardware
+prosport,Data East,Liberation - Genesis Hardware,Data East,Liberation - Genesis Hardware
 psychic5,Jaleco,Psychic 5 Hardware,Jaleco,Psychic 5 Hardware
-oscar,Data East,DECO 8-bit - 16-bit,Data East,DECO 8-bit - 16-bit
-rmpgwt,Midway,Wolf Unit,Midway,Wolf Unit
+psyvaria,Success,G-NET,Taito,G-NET
+psyvarrv,Success,G-NET,Taito,G-NET
+pushmans,Comad - American Sammy,Pushman - Bouncing Balls Hardware,Comad,Pushman - Bouncing Balls Hardware
+raycris,Taito,G-NET,Taito,G-NET
+reaktor,Zilec,Track & Field-derived Hardware,Konami - Zilec,Track & Field-derived Hardware
+relief,Atari Games,Relief Pitcher Hardware,Atari Games,Relief Pitcher Hardware
+repulse,Crux / Sega,Kyugo Hardware,Kyugo,Kyugo Hardware
 ringking,Woodplace / Data East,Ring King Hardware,Woodplace,Ring King Hardware
-rpatroln,Orca,River Patrol Hardware,Orca,River Patrol Hardware
+ripoff,Cinematronics,CCPU Vector Hardware,Cinematronics,CCPU Vector Hardware
+rmpgwt,Midway,Wolf Unit,Midway,Wolf Unit
 robocop2u,Data East,DECO IC16,Data East,DECO IC16
+robokid,UPL,UPL-88013,UPL,UPL-88013
+robowres,Sanritsu - Sega,Appoooh Hardware,Sanritsu,Appoooh Hardware
 rocnrope,Konami,Roc’n Rope Hardware,Konami,Roc’n Rope Hardware
 rohga,Data East,DECO IC16,Data East,DECO IC16
+rolcrush,SemiCom - Exit,Dream World Hardware,SemiCom,Dream World Hardware
+rollerg,Konami,Rollergames Hardware,Konami,Rollergames Hardware
+rpatroln,Orca,River Patrol Hardware,Orca,River Patrol Hardware
+rsgun,Treasure,ST-V,Sega,ST-V
+rthun2,Namco,System 2,Namco,System 2
+rtype,Irem,M72,Irem,M72
+rtype2,Irem,M84,Irem,M84
 rungun,Konami,GX247 - Run and Gun Hardware,Konami,GX247 - Run and Gun Hardware
+s1945ii,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+s1945iii,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+sauro,Tecfri,Sauro Hardware,Tecfri,Sauro Hardware
+sbasketb,Konami,Super Basketball Hardware,Konami,Super Basketball Hardware
+sbomber,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+sbrkout,Atari,Super Breakout Hardware,Atari,Super Breakout Hardware
+schaser,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+sci,Taito,Z System,Taito,Z System
 scotrsht,Konami,Scooter Shooter Hardware,Konami,Scooter Shooter Hardware
+sdfight,SemiCom - Tirano,Tumble Pop-derived Hardware,Various,Tumble Pop-derived Hardware
 sdgndmps,Banpresto,NMK16,NMK,NMK16
-grainbow,Banpresto,SD Gundam Rainbow Hardware,Banpresto,SD Gundam Rainbow Hardware
+seawolf,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+sfexpu1,Arika / Capcom,Sony ZN-1,Sony,ZN-1
+sfexu,Arika / Capcom,Sony ZN-1,Sony,ZN-1
+sgunner,Namco,System 2,Namco,System 2
+sgunner2,Namco,System 2,Namco,System 2
+shackled,Data East,DECO 8-bit,Data East,DECO 8-bit
+shadfrce,Technos,Shadow Force Hardware,Technos,Shadow Force Hardware
+shanghss,Warashi,G-NET,Taito,G-NET
+shangon,Sega,Hang-On Hardware,Sega,Hang-On Hardware
+shangtou,Warashi - Sunsoft - Taito,G-NET,Taito,G-NET
+sheriff,Nintendo,Nintendo 8080 Hardware,Nintendo,Nintendo 8080 Hardware
+shienryu,Warashi,ST-V,Sega,ST-V
+shikigam,Alfa System - Taito,G-NET,Taito,G-NET
+shogwarr,Kaneko,Kaneko 16-bit,Kaneko,Kaneko 16-bit
+shuffle,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+sianniv,Taito,G-NET,Taito,G-NET
 silvland,Tehkan,Silver Land Hardware,Tehkan,Silver Land Hardware
 skysmash,Nichibutsu,Sky Smasher Hardware,Nichibutsu,Sky Smasher Hardware
+skytargt,Sega,Model 2A,Sega,Model 2A
 smashtv,Williams,Y Unit,Williams,Y Unit
+smissw,Comad,EXPRO-02-derived Hardware,Kaneko,EXPRO-02-derived Hardware
 snowbro2,HANAfram / Toaplan,Snow Bros. 2 Hardware,Toaplan,Snow Bros. 2 Hardware
 snowbrosj,Toaplan,Snow Bros. Hardware,Toaplan,Snow Bros. Hardware
+sokyugrt,Raizing,ST-V,Sega,ST-V
+soldivid,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
 solomon,Tecmo,Solomon’s Key Hardware,Tecmo,Solomon’s Key Hardware
 sonson,Capcom,SonSon Hardware,Capcom,SonSon Hardware
+soutenry,Warashi,G-NET,Taito,G-NET
 spaceace,Cinematronics / Advanced Microcomputer Systems,Laserdisc - Space Ace,Cinematronics,Laserdisc Hardware
+spacefev,Nintendo,Nintendo 8080 Hardware,Nintendo,Nintendo 8080 Hardware
+spacelnc,Nintendo,Nintendo 8080 Hardware,Nintendo,Nintendo 8080 Hardware
 spacerace,Atari,Space Race TTL,Atari,Space Race TTL
+spacewar,Cinematronics,CCPU Vector Hardware,Cinematronics,CCPU Vector Hardware
+spcenctr,Midway,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+speedbal,Tecfri - Desystem,Speed Ball Hardware,Tecfri,Speed Ball Hardware
+speedrcr,Namco,System FL,Namco,System FL
 sprint1,Atari,Sprint 1 Hardware,Atari,Sprint 1 Hardware
 sprint2,Atari,Sprint 2 Hardware,Atari,Sprint 2 Hardware
-subs,Atari,Subs Hardware,Atari,Subs Hardware
-sbasketb,Konami,Super Basketball Hardware,Konami,Super Basketball Hardware
-sbrkout,Atari,Super Breakout Hardware,Atari,Super Breakout Hardware
-supbtime,Data East,DECO IC16,Data East,DECO IC16
-sucasino,Data East,Super Casino Hardware,Data East,Super Casino Hardware
-shangon,Sega,Hang-On Hardware,Sega,Hang-On Hardware
-suprloco,Sega,Super Locomotive Hardware,Sega,Super Locomotive Hardware
-tankbatt,Namco,Tank Battalion Hardware,Namco,Tank Battalion Hardware
-tmnt2,Konami,GX063 - TMNT2 Hardware,Konami,GX063 - TMNT2 Hardware
-atetris,Atari,Atari Tetris Hardware,Atari,Atari Tetris Hardware
-edrandy,Data East,DECO IC16,Data East,DECO IC16
-fround,Konami,GX870 - The Final Round Hardware,Konami,GX870 - The Final Round Hardware
-lkagebl1,Taito,The Legend of Kage Hardware,Taito,The Legend of Kage Hardware
-tnextspcj,SNK,A8004-1,SNK,A8004-1
-ghostb,Data East,DECO 8-bit - 16-bit,Data East,DECO 8-bit - 16-bit
+spuzbobl,Taito,G-NET,Taito,G-NET
+spy,Konami,S.P.Y. Hardware,Konami,S.P.Y. Hardware
+squash,Gaelco,GAE1,Gaelco,GAE1
+srallyc,Sega,Model 2A,Sega,Model 2A
+srdarwin,Data East,DECO 8-bit,Data East,DECO 8-bit
+srdmissn,Kyugo / Taito,Kyugo Hardware,Kyugo,Kyugo Hardware
 srumbler,Capcom,Speed Rumbler Hardware,Capcom,Speed Rumbler Hardware
+ssriders,Konami,TMNT2 - Sunset Riders Hardware,Konami,TMNT2 - Sunset Riders Hardware
+ssridersebd,Konami,TMNT2 - Sunset Riders Hardware,Konami,TMNT2 - Sunset Riders Hardware
+sstingry,Alpha Denshi,Alpha 68K N,Alpha Denshi,Alpha 68K N
+starcas,Cinematronics,CCPU Vector Hardware,Cinematronics,CCPU Vector Hardware
+starglad,Capcom,Sony ZN-1,Sony,ZN-1
+starhawk,Cinematronics,CCPU Vector Hardware,Cinematronics,CCPU Vector Hardware
+starsldr,Hudson Soft,Aleck 64,Seta,Aleck 64
+startrgn,Namco,System 10,Namco,System 10
+stlforce,Electronic Devices - Ecogames,Steel Force Hardware,Electronic Devices,Steel Force Hardware
+stmblade,Visco,SSV,Seta - Sammy - Visco,SSV
+strnskil,Sun Electronics,Markham - Strength & Skill Hardware,Sun Electronics,Markham - Strength & Skill Hardware
+stunrun,Atari,Hard Drivin Hardware,Atari,Hard Drivin Hardware
+subs,Atari,Subs Hardware,Atari,Subs Hardware
+sucasino,Data East,Super Casino Hardware,Data East,Super Casino Hardware
+suikoenb,Data East,ST-V,Sega,ST-V
+sunaq,SunA,SunA 16-bit,SunA,SunA 16-bit
+supbtime,Data East,DECO IC16,Data East,DECO IC16
+superdq,Universal,Super Don Quix-ote Laserdisc,Universal,Super Don Quix-ote Laserdisc
+supmodel,Comad - New Japan System,EXPRO-02-derived Hardware,Kaneko,EXPRO-02-derived Hardware
+supmodl2,Comad,EXPRO-02-derived Hardware,Kaneko,EXPRO-02-derived Hardware
+suprloco,Sega,Super Locomotive Hardware,Sega,Super Locomotive Hardware
+suprtrio,Gameace,Tumble Pop-derived Hardware,Various,Tumble Pop-derived Hardware
+suzuk8h2,Namco,System 2,Namco,System 2
+suzuka8h,Namco,System 2,Namco,System 2
+sws,Namco,System 2,Namco,System 2
+sws92,Namco,System 2,Namco,System 2
+sws93,Namco,System 2,Namco,System 2
+tank,Atari - Kee Games,Tank TTL Hardware,Atari - Kee Games,Tank TTL Hardware
+tankbatt,Namco,Tank Battalion Hardware,Namco,Tank Battalion Hardware
+tankii,Atari - Kee Games,Tank TTL Hardware,Atari - Kee Games,Tank TTL Hardware
+tgm2,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
+thayers,RDI Video Systems,Thayer’s Quest Laserdisc,RDI Video Systems,Thayer’s Quest Laserdisc
 thndzone,Data East,DECO IC16,Data East,DECO IC16
+thoop,Gaelco,GAE1,Gaelco,GAE1
+thoop2,Gaelco,TH Strikes Back Hardware,Gaelco,TH Strikes Back Hardware
+tmnt2,Konami,GX063 - TMNT2 Hardware,Konami,GX063 - TMNT2 Hardware
+tnextspc,SNK,Alpha 68K I,SNK - Alpha Denshi,Alpha 68K I
+tnextspcj,SNK,A8004-1,SNK,A8004-1
 tnk3,SNK,Triple Z80 Hardware,SNK,Triple Z80 Hardware
 toobin,Atari,Toobin Hardware,Atari,Toobin Hardware
+trckydoc,Tecfri,Sauro Hardware,Tecfri,Sauro Hardware
 tricktrp,Konami,Labyrinth Runner Hardware,Konami,Labyrinth Runner Hardware
 triothep,Data East,DECO IC16,Data East,DECO IC16
 tripool,Noma / Nazon,Tri-Pool Hardware,Noma / Nazon,Tri-Pool Hardware
 troangel,Irem,M52,Irem,M52
-tumblep,Data East,DECO IC16,Data East,DECO IC16
+ts2u,Takara / Capcom,Sony ZN-1,Sony,ZN-1
 tshoot,Williams,Williams 6809 Hardware,Williams,Williams 6809 Hardware
+tumblep,Data East,DECO IC16,Data East,DECO IC16
+turtship,Philko - Sharp Image,Side Arms-derived Hardware,Philko,Side Arms-derived Hardware
+twcup98,Tecmo,ST-V,Sega,ST-V
+twincobr,Toaplan - Taito,Toaplan V1,Toaplan,Toaplan V1
+twineag2,Seta,SSV,Seta - Sammy - Visco,SSV
+uballoon,SunA - Unico,SunA 16-bit,SunA,SunA 16-bit
+ufosensi,Sega,System 1,Sega,System 1
 ultratnk,Atari,Ultra Tank Hardware,Atari,Ultra Tank Hardware
+ultrax,Sammy,SSV,Seta - Sammy - Visco,SSV
+usagi,Warashi - Mahjong Kobo - Taito,G-NET,Taito,G-NET
+valkyrie,Namco,System 2,Namco,System 2
+valtric,NMK - Jaleco,Argus Hardware,Jaleco - NMK,Argus Hardware
 vaportra,Data East,DECO 8-bit - 16-bit,Data East,DECO 8-bit - 16-bit
+vasara,Visco,SSV,Seta - Sammy - Visco,SSV
+vasara2,Visco,SSV,Seta - Sammy - Visco,SSV
 vball,Technos,U.S. Championship V’Ball Hardware,Technos,U.S. Championship V’Ball Hardware
+vcop2,Sega,Model 2A,Sega,Model 2A
+vcopa,Sega,Model 2,Sega,Model 2
+vf,Sega,Model 1,Sega,Model 1
+vf2,Sega,Model 2A,Sega,Model 2A
 vigilant,Irem,M75,Irem,M75
 vindictr,Atari,System 1,Atari,System 1
-vf,Sega,Model 1,Sega,Model 1
+viostorm,Konami,Mystic Warriors Hardware,Konami,Mystic Warriors Hardware
+vortex,Taito,8080 Black-and-White Hardware,Midway / Taito,8080 Black-and-White Hardware
+warrior,Vectorbeam,CCPU Vector Hardware,Cinematronics,CCPU Vector Hardware
+wbmlvcd,Bootleg - mpatou,System 1,Sega,System 1
+wecleman,Konami,GX602 - WEC Le Mans 24 Hardware,Konami,GX602 - WEC Le Mans 24 Hardware
 wizdfire,Data East,DECO IC16,Data East,DECO IC16
+woodpek,Amstar,Pac-Man-derived Hardware,Namco,Pac-Man Hardware
+wotw,Cinematronics,CCPU Vector Hardware,Cinematronics,CCPU Vector Hardware
+wownfant,Comad,EXPRO-02-derived Hardware,Kaneko,EXPRO-02-derived Hardware
+wpksocv2,Jaleco,Mega System 32,Jaleco,Mega System 32
+wrally,Gaelco,World Rally Hardware,Gaelco,World Rally Hardware
 wrally2,Gaelco,GAE1,Gaelco,GAE1
+wrallyc,Gaelco,World Rally Hardware,Gaelco,World Rally Hardware
+xexex,Konami,GX067 - Xexex Hardware,Konami,GX067 - Xexex Hardware
+xiistag,Triangle Service,G-NET,Taito,G-NET
+xmultiplm72,Irem,M72,Irem,M72
+xsleenab,Bootleg,Xain’d Sleena Hardware,Technos,Xain’d Sleena Hardware
 xsleenaba,Technos,Xain’d Sleena Hardware,Technos,Xain’d Sleena Hardware
 xybots,Atari,Xybots Hardware,Atari,Xybots Hardware
-zigzagb,Lax / Techstar,Galaxian-derived Hardware,Namco,Galaxian Hardware
-zzyzzyxx,Cinematronics,Zzyzzyxx Hardware,Cinematronics,Zzyzzyxx Hardware
-mk1wolf_umk3,Midway,Y Unit,Midway,Y Unit
-mk2wolf_umk3,Midway,T Unit,Midway,T Unit
-astrass,Sunsoft,ST-V,Sega,ST-V
-batmanfr,Acclaim,ST-V,Sega,ST-V
-cotton2,Success,ST-V,Sega,ST-V
-cottonbm,Success,ST-V,Sega,ST-V
-ffreveng,Capcom / Sega,ST-V,Sega,ST-V
-groovef,Atlus,ST-V,Sega,ST-V
-grdforce,Success,ST-V,Sega,ST-V
-prikura,Atlus,ST-V,Sega,ST-V
-rsgun,Treasure,ST-V,Sega,ST-V
-shienryu,Warashi,ST-V,Sega,ST-V
-sokyugrt,Raizing,ST-V,Sega,ST-V
-suikoenb,Data East,ST-V,Sega,ST-V
-twcup98,Tecmo,ST-V,Sega,ST-V
-mtetrisc,Capcom,Aleck 64,Seta,Aleck 64
-starsldr,Hudson Soft,Aleck 64,Seta,Aleck 64
-11beat,Hudson Soft,Aleck 64,Seta,Aleck 64
-daraku,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-dragnblz,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-gnbarich,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-gunbird2,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-loderndf,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-mjgtaste,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-hotgmcki,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-hotdebut,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-soldivid,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-sbomber,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-s1945iii,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-s1945ii,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-hotgmck3,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-hotgm4ev,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-hotgmck,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-hgkairak,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-tgm2,Psikyo,Psikyo SH-2,Psikyo,Psikyo SH-2
-agallet,Gazelle - Banpresto,CAVE 1st Generation Hardware,Cave,1st Generation Hardware
-agalletj,Gazelle - Banpresto,CAVE 1st Generation Hardware,Cave,1st Generation Hardware
-asurabld,Fuuki,FG-3,Fuuki,FG-3
-asurabus,Fuuki,FG-3,Fuuki,FG-3
-pbancho,Fuuki,FG-2,Fuuki,FG-2
-gogomile,Fuuki,FG-2,Fuuki,FG-2
-ninjakd2,UPL,UPL-87003,UPL,UPL-87003
-mnight,UPL,UPL-87007,UPL,UPL-87007
-arkarea,UPL,UPL-87007,UPL,UPL-87007
-robokid,UPL,UPL-88013,UPL,UPL-88013
-omegaf,UPL,UPL-89016,UPL,UPL-89016
-rtype,Irem,M72,Irem,M72
-rtype2,Irem,M84,Irem,M84
-hharryu,Irem,M84,Irem,M84
-airduelm72,Irem,M72,Irem,M72
-gallopm72,Irem,M72,Irem,M72
-imgfight,Irem,M72,Irem,M72
-lohtj,Irem,M72,Irem,M72
-mrheli,Irem,M72,Irem,M72
-nspiritj,Irem,M72,Irem,M72
-xmultiplm72,Irem,M72,Irem,M72
-dbreedjm72,Irem,M72,Irem,M72
-aligator,Gaelco,GAE1,Gaelco,GAE1
-altair,Cidelsa,Video System-1,Cidelsa,Video System-1
-altair2,Cidelsa,Video System-1,Cidelsa,Video System-1
-asterix,Konami,Asterix Hardware,Konami,Asterix Hardware
-bbusters,SNK,Beast Busters Hardware,SNK,Beast Busters Hardware
-bigkarnk,Gaelco,GAE1,Gaelco,GAE1
-biomtoy,Gaelco,GAE1,Gaelco,GAE1
-chqflag,Konami,GX717 - Chequered Flag Hardware,Konami,GX717 - Chequered Flag Hardware
-deadang,Seibu Kaihatsu,Dead Angle Hardware,Seibu Kaihatsu,Dead Angle Hardware
-destryer,Cidelsa,Video System-1,Cidelsa,Video System-1
-detatwin,Konami,GX060 - Detana!! TwinBee Hardware,Konami,GX060 - Detana!! TwinBee Hardware
-draco,Cidelsa,Video System-1,Cidelsa,Video System-1
-empcity,Seibu Kaihatsu,Empire City Hardware,Seibu Kaihatsu,Empire City Hardware
-glassa,Gaelco,Glass Hardware,Gaelco,Glass Hardware
-gwar,SNK,Triple Z80 Hardware,SNK,Triple Z80 Hardware
-hamboy,Dinamic / Inder,Mega Phoenix Hardware,Inder,Mega Phoenix Hardware
-hotchase,Konami,GX763 - Hot Chase Hardware,Konami,GX763 - Hot Chase Hardware
-konamigt,Konami,GX400 - Konami GT Hardware,Konami,GX400 - Konami GT Hardware
-mtlchamp,Konami,Mystic Warriors Hardware,Konami,Mystic Warriors Hardware
-mechatt,SNK,Mechanized Attack Hardware,SNK,Mechanized Attack Hardware
-megaphx,Dinamic / Inder,Mega Phoenix Hardware,Inder,Mega Phoenix Hardware
-mystwarr,Konami,Mystic Warriors Hardware,Konami,Mystic Warriors Hardware
-opwolf,Taito,Rastan Hardware,Taito,Rastan Hardware
-overdriv,Konami,GX789 - Over Drive Hardware,Konami,GX789 - Over Drive Hardware
-relief,Atari Games,Relief Pitcher Hardware,Atari Games,Relief Pitcher Hardware
-shadfrce,Technos,Shadow Force Hardware,Technos,Shadow Force Hardware
-squash,Gaelco,GAE1,Gaelco,GAE1
-ssridersebd,Konami,TMNT2 - Sunset Riders Hardware,Konami,TMNT2 - Sunset Riders Hardware
-ssriders,Konami,TMNT2 - Sunset Riders Hardware,Konami,TMNT2 - Sunset Riders Hardware
-thoop2,Gaelco,TH Strikes Back Hardware,Gaelco,TH Strikes Back Hardware
-thoop,Gaelco,GAE1,Gaelco,GAE1
-wecleman,Konami,GX602 - WEC Le Mans 24 Hardware,Konami,GX602 - WEC Le Mans 24 Hardware
-moomesa,Konami,Mystic Warriors Hardware,Konami,Mystic Warriors Hardware
-wrallyc,Gaelco,World Rally Hardware,Gaelco,World Rally Hardware
-wrally,Gaelco,World Rally Hardware,Gaelco,World Rally Hardware
-xexex,Konami,GX067 - Xexex Hardware,Konami,GX067 - Xexex Hardware
+yellowcbj,Data East,Liberation - Genesis Hardware,Data East,Liberation - Genesis Hardware
 yoyospel,Inder,Mega Phoenix Hardware,Inder,Mega Phoenix Hardware
+zaviga,Data East,B-Wings Hardware,Data East,B-Wings Hardware
+zeroguna,Psikyo,Model 2A,Sega,Model 2A
+zeroteam,Seibu Kaihatsu - Fabtek,Raiden II - Zero Team Hardware,Seibu Kaihatsu,Raiden II - Zero Team Hardware
+zigzagb,Lax / Techstar,Galaxian-derived Hardware,Namco,Galaxian Hardware
+zipzap,Barko Corp,EXPRO-02-derived Hardware,Kaneko,EXPRO-02-derived Hardware
+zokuotena,Success,G-NET,Taito,G-NET
+zooo,Success,G-NET,Taito,G-NET
+zzyzzyxx,Cinematronics,Zzyzzyxx Hardware,Cinematronics,Zzyzzyxx Hardware
+mcatadv,Wintechno,LINDA Hardware,Face,LINDA Hardware
+mcatadvj,Wintechno,LINDA Hardware,Face,LINDA Hardware
+catt,Wintechno,LINDA Hardware,Face,LINDA Hardware
+nost,Face,LINDA Hardware,Face,LINDA Hardware
+nostj,Face,LINDA Hardware,Face,LINDA Hardware
+nostk,Face,LINDA Hardware,Face,LINDA Hardware

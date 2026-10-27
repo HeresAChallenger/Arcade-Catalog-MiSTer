@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.2.2 — 2026-10-27
+
+Consolidação da taxonomia, normalização e curadoria da linha 1.2.x.
+
+- Catálogo principal validado com 1.564 MRAs.
+- 1.564/1.564 entradas validadas em Empresa, Placa, Gênero e Ano.
+- Zero MRAs faltantes ou extras nas quatro árvores principais.
+- Zero links quebrados e zero classificações pendentes em Empresa/Placa.
+- Suporte à família Face LINDA, incluindo Magical Cat Adventure e Nostradamus.
+- Correções de classificação para Guts n' Glory, Escape from the Planet of the Robot Monsters e Mille Miglia 2.
+- Normalização da família Williams/Midway Y-Unit e remoção de resíduos de classificações antigas.
+- Correções na classificação por gênero e sanitização de nomes compatíveis com FAT.
+- Correção do parser TSV do catálogo de Alternativos.
+- Curadoria de Alternativos validada com 162/162 entradas disponíveis.
+- Melhorias no diagnóstico e na reconciliação das árvores geradas.
+- Atualização direta da RC12 para 1.2.2 sem reconstrução completa.
+- Bases remotas sincronizadas com o payload final e protegidas por SHA-256.
+
 ## 1.2.1 — 2026-10-20
 
 Correção de cobertura e desempenho da linha 1.2.x.

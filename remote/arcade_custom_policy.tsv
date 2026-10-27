@@ -1,0 +1,13 @@
+setname	action	parent_setname	category	group_name	note
+abortman	alternate		_3 Hacks - Homebrews	Pac-Man	custom hack/homebrew
+devilfsg	alternate		_9 Implementacoes alternativas	Devil Fish	alternate hardware implementation
+matsuri15	alternate		_6 Revisoes - Regioes	Mushihime-Sama	event/special revision
+popflamn	alternate	popflame	_4 Bootlegs	Pop Flamer	bootleg conversion
+rtype2inv	alternate	rtype2	_9 Implementacoes alternativas	R-Type II	inverted/custom implementation
+spcloneo	alternate	salamand	_6 Revisoes - Regioes	Salamander	special version
+spclone	alternate	salamand	_6 Revisoes - Regioes	Salamander	special version
+spacedemon	alternate	spacefb	_6 Revisoes - Regioes	Space Firebird	custom setname for MAME clone
+stapper	alternate		_3 Hacks - Homebrews	Tapper	Simpsons hack
+stapper1	alternate		_3 Hacks - Homebrews	Tapper	Simpsons hack
+umk3pb2	alternate	umk3	_3 Hacks - Homebrews	Ultimate Mortal Kombat 3	PLUS beta hack
+xmultiplm72inv	alternate	xmultipl	_9 Implementacoes alternativas	X Multiply	inverted/custom implementation
