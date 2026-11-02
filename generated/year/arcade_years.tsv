@@ -1,4 +1,6 @@
 filename	setname	year	status	source	confidence
+1941 - Counter Attack (World 900227) [CoC].mra	1941	1990	year	mame	exact
+Adventure Quiz Capcom World 2 (Japan 920611) [CoC].mra	cworld2j	1992	year	mame	exact
 Armed F (Japan).mra	armedf	1988	year	mame	exact
 Armed Police Batrider (Japan, B Version) (Fri Feb 13 1998).mra	batriderj	1998	year	mame	exact
 Battle Bakraid - Unlimited Version (Japan) (Tue Jun 8 1999).mra	bbakraidj	1999	year	mame	exact
@@ -7,6 +9,8 @@ Black Heart.mra	blkheart	1991	year	mame	exact
 Boogie Wings (USA, v1.7, 92.12.14).mra	boogwingu	1992	year	mame	exact
 Bubble Bobble (Japan, Ver 0.1) [CoC].mra	bublbobl	1986	year	mame	exact
 Captain America and The Avengers (US, Rev 1.9).mra	captavenu	1991	year	mame	exact
+Captain Commando (World 911202) [CoC].mra	captcomm	1991	year	mame	exact
+Carrier Air Wing (World 901012) [CoC].mra	cawing	1990	year	mame	exact
 Caveman Ninja (World, Ver. 4).mra	cninja	1991	year	mame	exact
 Chouji Meikyuu Legion (Japan ver 1.05, set 2).mra	legionj2	1987	year	mame	exact
 Cobra-Command (World, Rev. 5).mra	cobracom	1988	year	mame	exact
@@ -16,8 +20,12 @@ Dark Seal (World, Rev. 3).mra	darkseal	1990	year	mame	exact
 Demon's World - Horror Story (Set 3).mra	demonwld2	1989	year	mame	exact
 Diet Go Go (Europe, Set 1).mra	dietgo	1992	year	mame	exact
 Double Wings (Asia).mra	dblewingb	1994	year	mame	exact
+Dynasty Wars (USA, B-Board 89624B) [CoC].mra	dynwar	1989	year	mame	exact
+Final Fight (World, Set 1) [CoC].mra	ffight	1989	year	mame	exact
+Forgotten Worlds (World, New) [CoC].mra	forgottn	1988	year	mame	exact
 G.I. Joe (World, EAB).mra	gijoe	1992	year	mame	exact
 Gang Wars.mra	gangwars	1989	year	mame	exact
+Ghouls'n Ghosts (World) [CoC].mra	ghouls	1988	year	mame	exact
 Hachoo.mra	hachoo	1989	year	mame	exact
 Hellfire (2P Set).mra	hellfire	1989	year	mame	exact
 Hishou Zame (Japan).mra	hishouza	1987	year	mame	exact
@@ -27,23 +35,33 @@ In Your Face (US, Prototype).mra	inyourfa	1991	year	mame	exact
 Jitsuryoku!! Pro Yakyuu (Japan).mra	jitsupro	1989	year	mame	exact
 Kid no Hore Hore Daisakusen.mra	horekid	1987	year	mame	exact
 KiKi KaiKai (Japan).mra	kikikai	1986	year	mame	exact
+Knights of the Round (World 911127) [CoC].mra	knights	1991	year	mame	exact
 Kozure Ookami (Japan).mra	kozure	1987	year	mame	exact
 Kyukyoku Tiger (Japan, 2P Co-Op).mra	ktiger	1989	year	mame	exact
+Magic Sword - Heroic Fantasy (World 900725) [CoC].mra	msword	1990	year	mame	exact
 Mahou Daisakusen (Japan).mra	mahoudai	1993	year	mame	exact
 Mania Challenge (Set 1).mra	maniach	1986	year	mame	exact
 Mat Mania.mra	matmania	1985	year	mame	exact
+Mega Man - The Power Battle (CPS1, USA 951006) [CoC].mra	megaman	1995	year	mame	exact
+Mega Twins (World 900619) [CoC].mra	mtwins	1990	year	mame	exact
+Mercs (World 900302) [CoC].mra	mercs	1990	year	mame	exact
 Metamorphic Force (World, EAA).mra	metamrph	1993	year	mame	exact
 Mutant Fighter (World, Ver. EM-5).mra	mutantf	1991	year	mame	exact
 Mystic Warriors (World, EAA).mra	mystwarr	1993	year	mame	exact
+Nemo (World 901130) [CoC].mra	nemo	1990	year	mame	exact
 Nitro Ball (World, Set 1).mra	nitrobal	1992	year	mame	exact
 Out Zone.mra	outzone	1990	year	mame	exact
 P-47 - The Freedom Fighter (Japan).mra	p47j	1988	year	mame	exact
 P.O.W. - Prisoners of War (US Version 1).mra	pow	1988	year	mame	exact
 Paddle Mania.mra	paddlema	1988	year	mame	exact
+Pang! 3 (Europe 950601) [CoC].mra	pang3	1995	year	mame	exact
 Pipi & Bibis - Whoopee!! (Z80 sound cpu, set 1).mra	pipibibs	1991	year	mame	exact
 Plus Alpha.mra	plusalph	1989	year	mame	exact
+Pnickies (Japan 940608) [CoC].mra	pnickj	1994	year	mame	exact
 Prehistoric Isle in 1930 (World).mra	prehisle	1989	year	mame	exact
 Psycho-Nics Oscar (World).mra	oscar	1987	year	mame	exact
+Quiz & Dragons - Capcom Quiz Game (USA 920701) [CoC].mra	qad	1992	year	mame	exact
+Quiz Tonosama no Yabou 2 - Zenkoku-ban (Japan 950123) [CoC].mra	qtono2j	1995	year	mame	exact
 Rally Bike - Dash Yarou.mra	rallybik	1988	year	mame	exact
 Robocop 2 (USA, v0.10).mra	robocop2u	1991	year	mame	exact
 Rod-Land (World, Set 1).mra	rodland	1990	year	mame	exact
@@ -58,7 +76,11 @@ Sky Soldiers (US).mra	skysoldr	1988	year	mame	exact
 Snow Bros. - Nick & Tom (Japan).mra	snowbrosj	1990	year	mame	exact
 Snow Bros. 2 - With New Elves - Otenki Paradise (Hanafram).mra	snowbro2	1994	year	mame	exact
 Soldam.mra	soldam	1992	year	mame	exact
+Street Fighter II - Champion Edition (World 920513) [CoC].mra	sf2ce	1992	year	mame	exact
+Street Fighter II - Hyper Fighting (World 921209) [CoC].mra	sf2hf	1992	year	mame	exact
+Street Fighter II - The World Warrior (World 910522) [CoC].mra	sf2	1991	year	mame	exact
 Street Smart (US Version 2).mra	streetsm	1989	year	mame	exact
+Strider (USA, B-Board 89624B-2) [CoC].mra	strider	1989	year	mame	exact
 Super Burger Time (World, Set 1).mra	supbtime	1990	year	mame	exact
 Tatakae! Big Fighter (Japan).mra	bigfghtr	1989	year	mame	exact
 Teenage Mutant Ninja Turtles - Turtles in Time (4 Players Ver. UAA).mra	tmnt2	1991	year	mame	exact
@@ -66,19 +88,24 @@ Teki Paki.mra	tekipaki	1991	year	mame	exact
 Terra Cresta (YM3526 set 1).mra	terracre	1985	year	mame	exact
 Terra Force (Japan).mra	terrafj	1987	year	mame	exact
 The Cliffhanger - Edward Randy (World, Ver. 3).mra	edrandy	1990	year	mame	exact
+The King of Dragons (World 910805) [CoC].mra	kod	1991	year	mame	exact
 The Legend of Kage (Rev 2) [CoC].mra	lkage	1984	year	mame	exact
 The Lord of King (Japan).mra	lordofk	1989	year	mame	exact
 The Lost Castle In Darkmist [CoC].mra	darkmist	1986	year	mame	exact
 The Next Space (Japan).mra	tnextspcj	1989	year	mame	exact
+Three Wonders (World 910520) [CoC].mra	3wonders	1991	year	mame	exact
 Thunder Dragon (8th Jan. 1992).mra	tdragon	1991	year	mame	exact
 Thunder Zone (World, Rev 1).mra	thndzone	1991	year	mame	exact
 Time Soldiers (US Rev 3).mra	timesold	1987	year	mame	exact
 Truxton - Tatsujin.mra	truxton	1988	year	mame	exact
 Truxton II - Tatsujin Oh.mra	truxton2	1992	year	mame	exact
 Tumble Pop (World).mra	tumblep	1991	year	mame	exact
+U.N. Squadron (USA) [CoC].mra	unsquad	1989	year	mame	exact
 Vapor Trail - Hyper Offence Formation (World, Rev. 1).mra	vaportra	1989	year	mame	exact
+Varth - Operation Thunderstorm (World 920714) [CoC].mra	varth	1992	year	mame	exact
 Vimana (Japan).mra	vimanaj	1991	year	mame	exact
 Wardner (World).mra	wardner	1987	year	mame	exact
+Willow (World) [CoC].mra	willow	1989	year	mame	exact
 Wizard Fire (World, v2.1).mra	wizdfire	1992	year	mame	exact
 Zero Wing (2P Set).mra	zerowing	1989	year	mame	exact
 280Z-ZZAP (US).mra	280zzzap	1976	year	mame	exact
@@ -819,6 +846,7 @@ Detana!! Twin Bee (FF, Japan ver J, Konami, 1991).mra	detatwin	1991	year	mame	ex
 Draco (FF, Cidelsa, 1981).mra	draco	1981	year	mame	exact
 Empire City 1931 (FF, Seibu, 1986).mra	empcity	1986	year	mame	exact
 Glass (FF, Gaelco, 1993).mra	glassa	1994	year	mame	exact
+GTI Club (FF, Konami, 1996).mra	gticlub	1996	year	mame	exact
 Guerrilla War (FF, SNK, 1987).mra	gwar	1987	year	mame	exact
 Hammer Boy (FF, Dinamic-Inder, 1990).mra	hamboy	1990	year	mame	exact
 Hole Land (FF, Tecfri, 1984).mra	holeland	1984	year	mame	exact
@@ -866,6 +894,7 @@ Alien Syndrome (set 4, System 16B, unprotected).mra	aliensyn	1987	year	mame	exac
 Alien vs. Predator (Europe 940520).mra	avsp	1994	year	mame	exact
 Aliens (World set 1).mra	aliens	1990	year	mame	exact
 Altered Beast (set 8) (8751 317-0078).mra	altbeast	1988	year	mame	exact
+Arbalester.mra	arbalest	1989	year	mame	exact
 Arkanoid - Revenge of DOH (World).mra	arknoid2	1987	year	mame	exact
 Armored Warriors (Europe 941024).mra	armwar	1994	year	mame	exact
 Atomic Runner Chelnov (World).mra	chelnov	1988	year	mame	exact
@@ -996,6 +1025,7 @@ Mega Man 2 The Power Fighters (USA 960708).mra	megaman2	1996	year	mame	exact
 Mega Man The Power Battle (CPS1, USA 951006).mra	megaman	1995	year	mame	exact
 Mega Twins (World 900619).mra	mtwins	1990	year	mame	exact
 Mercs (World 900302).mra	mercs	1990	year	mame	exact
+Meta Fox.mra	metafox	1989	year	mame	exact
 Metro-Cross (set 1).mra	metrocrs	1985	year	mame	exact
 Michael Jackson's Moonwalker (World) (FD1094-8751 317-0159).mra	mwalk	1990	year	mame	exact
 Midnight Resistance (World, set 1).mra	midres	1989	year	mame	exact
@@ -1005,6 +1035,7 @@ Muscle Bomber Duo Ultimate Team Battle (World 931206).mra	mbombrd	1993	year	mame
 MVP (set 2, US) (FD1094 317-0143).mra	mvp	1989	year	mame	exact
 MX5000.mra	mx5000	1987	year	mame	exact
 N.Y. Captor (rev 2).mra	nycaptor	1985	year	mame	exact
+Narc (rev 7.00).mra	narc	1988	year	mame	exact
 Nemo (World 901130).mra	nemo	1990	year	mame	exact
 NeoGeo Pocket.mra	ngp	1998	year	mame	exact
 Night Warriors Darkstalkers' Revenge (Europe 950316).mra	nwarr	1995	year	mame	exact
@@ -1147,12 +1178,3 @@ X-Men (4 Players ver EBA).mra	xmen	1992	year	mame	exact
 X-Men Children of the Atom (Europe 950331).mra	xmcota	1994	year	mame	exact
 X-Men Vs. Street Fighter (Europe 961004).mra	xmvsf	1996	year	mame	exact
 Yie Ar Kung-Fu (version I).mra	yiear	1985	year	mame	exact
-Batsugun.mra	batsugun	1993	year	mame	exact
-BloodStorm (v2.22).mra	bloodstm	1994	year	mame	exact
-Dogyuun.mra	dogyuun	1992	year	mame	exact
-FixEight.mra	fixeight	1992	year	mame	exact
-Ghox (Joystick).mra	ghoxj	1991	year	mame	exact
-Grind Stormer.mra	grindstm	1992	year	mame	exact
-Knuckle Bash.mra	kbash	1993	year	mame	exact
-Street Fighter - The Movie (v1.12).mra	sftm	1995	year	mame	exact
-Time Killers (v1.32).mra	timekill	1992	year	mame	exact
